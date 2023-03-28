@@ -1,0 +1,1136 @@
+OID,DCA_Code,Common_Name,Scientific_Name,Category
+-1,10000,miscellaneous insects and allies,<miscellaneous insects and allies>,Miscellaneous Insects and Allies
+-1,10001,thrips,"<Thysanoptera>
+<Thysanoptera>
+",Miscellaneous Insects and Allies
+-1,10002,pine tip moths,"<pine tip moths>
+",Miscellaneous Insects and Allies
+-1,10003,wasp,<wasp>,Miscellaneous Insects and Allies
+-1,10008,weevil,<Curculionidae>,Miscellaneous Insects and Allies
+-1,10010,Allegheny mound ant,Formica exsectoides,Miscellaneous Insects and Allies
+-1,10011,ants,<Formicidae>,Miscellaneous Insects and Allies
+-1,10021,conifer seedling weevil,Steremnius carinatus,Miscellaneous Insects and Allies
+-1,10024,Eurytomid wasps,Eurytoma spp.,Miscellaneous Insects and Allies
+-1,10025,blister beetle,<Meloidae>,Miscellaneous Insects and Allies
+-1,10601,clerid beetle,<Cleridae>,Miscellaneous Insects and Allies
+-1,10602,lacewings,<lacewings>,Miscellaneous Insects and Allies
+-1,10603,blackbellied clerid,Enoclerus lecontei,Miscellaneous Insects and Allies
+-1,10604,redbellied clerid,Enoclerus sphegeus,Miscellaneous Insects and Allies
+-1,10605,red wood ant,Formica rufa,Miscellaneous Insects and Allies
+-1,10606,western yellowjacket,Vespula pennsylvanica,Miscellaneous Insects and Allies
+-1,10800,"other miscellaneous insect or ally, known (code pending)","<other miscellaneous insect or ally, known (code pending)>",Miscellaneous Insects and Allies
+-1,10801,other predatory insect or ally (known),<other predatory insect or ally (known)>,Miscellaneous Insects and Allies
+-1,10900,unknown miscellaneous insect or ally,<unknown miscellaneous insect or ally>,Miscellaneous Insects and Allies
+-1,10901,unknown predator insect or ally,<unknown predator insect or ally>,Miscellaneous Insects and Allies
+-1,11000,bark beetles,<Scolytinae>,Bark Beetles
+-1,11001,roundheaded pine beetle,Dendroctonus adjunctus,Bark Beetles
+-1,11002,western pine beetle,Dendroctonus brevicomis,Bark Beetles
+-1,11003,southern pine beetle,Dendroctonus frontalis,Bark Beetles
+-1,11004,Jeffrey pine beetle,Dendroctonus jeffreyi,Bark Beetles
+-1,11005,lodgepole pine beetle,Dendroctonus murrayanae,Bark Beetles
+-1,11006,mountain pine beetle,Dendroctonus ponderosae,Bark Beetles
+-1,11007,Douglas-fir beetle,Dendroctonus pseudotsugae,Bark Beetles
+-1,11008,boreal spruce beetle,Dendroctonus punctatus,Bark Beetles
+-1,11009,spruce beetle,Dendroctonus rufipennis,Bark Beetles
+-1,11010,eastern larch beetle,Dendroctonus simplex,Bark Beetles
+-1,11011,black turpentine beetle,Dendroctonus terebrans,Bark Beetles
+-1,11012,red turpentine beetle,Dendroctonus valens,Bark Beetles
+-1,11013,goldhaired spruce engraver,Dryocoetes affaber,Bark Beetles
+-1,11014,<Dryocoetes autographus>,Dryocoetes autographus,Bark Beetles
+-1,11015,western balsam bark beetle,Dryocoetes confusus,Bark Beetles
+-1,11016,<Dryocoetes sechelti>,Dryocoetes sechelti,Bark Beetles
+-1,11017,ash bark beetles,Hylesinus spp.,Bark Beetles
+-1,11018,native elm bark beetle,Hylurgopinus rufipes,Bark Beetles
+-1,11019,pinyon ips,Ips confusus,Bark Beetles
+-1,11020,small southern pine engraver,Ips avulsus,Bark Beetles
+-1,11021,sixspined ips,Ips calligraphus,Bark Beetles
+-1,11022,emarginate ips,Ips emarginatus,Bark Beetles
+-1,11023,eastern fivespined ips,Ips grandicollis,Bark Beetles
+-1,11024,<Orthotomicus latidens>,Orthotomicus latidens,Bark Beetles
+-1,11025,Arizona fivespined ips,Ips lecontei,Bark Beetles
+-1,11026,false pine engraver,Pseudips mexicanus,Bark Beetles
+-1,11027,California fivespined ips,Ips paraconfusus,Bark Beetles
+-1,11028,northern spruce engraver,Ips perturbatus,Bark Beetles
+-1,11029,pine engraver,Ips pini,Bark Beetles
+-1,11030,ips engraver beetles,Ips spp.,Bark Beetles
+-1,11031,lesser spruce engraver,Ips tridens,Bark Beetles
+-1,11032,western ash bark beetle,Hylesinus californicus,Bark Beetles
+-1,11033,Oregon ash bark beetle,Hylesinus oregonus,Bark Beetles
+-1,11034,<Orthotomicus caelatus>,Orthotomicus caelatus,Bark Beetles
+-1,11035,cedar & cypress bark beetles,Phloeosinus spp.,Bark Beetles
+-1,11036,western cedar bark beetle,Phloeosinus punctatus,Bark Beetles
+-1,11037,tip beetles,Pityogenes spp.,Bark Beetles
+-1,11038,<Pityophthorus pseudotsugae>,Pityophthorus pseudotsugae,Bark Beetles
+-1,11039,twig beetles,Pityophthorus spp.,Bark Beetles
+-1,11040,foureyed spruce bark beetle,Polygraphus rufipennis,Bark Beetles
+-1,11041,fir root bark beetle,Pseudohylesinus granulatus,Bark Beetles
+-1,11042,<Pseudohylesinus dispar>,Pseudohylesinus dispar,Bark Beetles
+-1,11043,Douglas-fir pole beetle,Pseudohylesinus nebulosus,Bark Beetles
+-1,11044,silver fir beetle,Pseudohylesinus sericeus,Bark Beetles
+-1,11045,smaller European elm bark beetle,Scolytus multistriatus,Bark Beetles
+-1,11046,spruce limb engraver,Scolytus piceae,Bark Beetles
+-1,11047,hickory bark beetle,Scolytus quadrispinosus,Bark Beetles
+-1,11048,true fir bark beetles,Scolytus spp.,Bark Beetles
+-1,11049,Douglas-fir engraver,Scolytus unispinosus,Bark Beetles
+-1,11050,fir engraver,Scolytus ventralis,Bark Beetles
+-1,11052,Sitka spruce engraver,Pseudips concinnus,Bark Beetles
+-1,11053,four-eyed bark beetle,Polygraphus spp.,Bark Beetles
+-1,11054,hemlock beetle,Pseudohylesinus tsugae,Bark Beetles
+-1,11055,southern spruce engraver,Ips pilifrons,Bark Beetles
+-1,11056,smaller Mexican pine beetle,Dendroctonus mexicanus,Bark Beetles
+-1,11057,banded elm bark beetle,Scolytus schevyrewi,Bark Beetles
+-1,11059,southern cypress beetle,Phloeosinus taxodii,Bark Beetles
+-1,11060,Mediterranean pine engraver,Orthotomicus erosus,Bark Beetles
+-1,11061,European bark beetle (H. opacus),Hylastes opacus,Bark Beetles
+-1,11062,redhaired pine bark beetle,Hylurgus ligniperda,Bark Beetles
+-1,11063,blue spruce engraver,Ips hunteri,Bark Beetles
+-1,11064,European spruce bark beetle,Ips typographus,Bark Beetles
+-1,11065,European silver fir beetle,Pityokteines curvidens,Bark Beetles
+-1,11066,walnut twig beetle,Pityophthorus juglandis,Bark Beetles
+-1,11067,aspen bark beetle (Trypophloeus),Trypophloeus populi,Bark Beetles
+-1,11068,aspen bark beetle (Procryphalus),Procryphalus mucronatus,Bark Beetles
+-1,11069,peach bark beetle,Phloeotribus liminaris,Bark Beetles
+-1,11070,European oak ambrosia beetle,Xyleborus monographus,Bark Beetles
+-1,11800,"other bark beetle, known (code pending)","<other bark beetle, known (code pending)>",Bark Beetles
+-1,11900,unknown bark beetle,<unknown bark beetle>,Bark Beetles
+-1,12000,defoliators,<defoliators>,Defoliators
+-1,12001,casebearer,<casebearer>,Defoliators
+-1,12002,leaftier,<leaftier>,Defoliators
+-1,12003,loopers,<loopers>,Defoliators
+-1,12004,needleminers,<needleminers>,Defoliators
+-1,12005,sawflies,<Symphyta>,Defoliators
+-1,12006,skeletonizer,<skeletonizer>,Defoliators
+-1,12007,larger elm leaf beetle,Monocesta coryli,Defoliators
+-1,12008,spanworm,<spanworm>,Defoliators
+-1,12009,webworm,<webworm>,Defoliators
+-1,12010,pine false webworm,Acantholyda erythrocephala,Defoliators
+-1,12011,western blackheaded budworm,Acleris gloverana,Defoliators
+-1,12012,eastern blackheaded budworm,Acleris variana,Defoliators
+-1,12013,whitefly,<Aleyrodidae>,Defoliators
+-1,12014,fall cankerworm,Alsophila pometaria,Defoliators
+-1,12015,alder flea beetle,Macrohaltica ambiens,Defoliators
+-1,12016,mountain mahogany looper,Anacamptodes clivinaria profanata,Defoliators
+-1,12017,birch leaffolder,Ancylis discigerana,Defoliators
+-1,12018,oak worms,Anisota spp.,Defoliators
+-1,12019,orangestriped oakworm,Anisota senatoria,Defoliators
+-1,12020,western larch sawfly,Anoplonyx occidens,Defoliators
+-1,12021,fruittree leafroller,Archips argyrospila,Defoliators
+-1,12022,uglynest caterpillar,Archips cerasivorana,Defoliators
+-1,12023,boxelder defoliator,Archips negundanus,Defoliators
+-1,12024,oak leafroller,Archips semiferana,Defoliators
+-1,12025,birch sawfly,Arge pectoralis,Defoliators
+-1,12026,arborvitae leafminer,Argyresthia thuiella,Defoliators
+-1,12028,Texas leafcutting ant,Atta texana,Defoliators
+-1,12029,oak skeletonizer,Bucculatrix ainsliella,Defoliators
+-1,12030,pear sawfly,Caliroa cerasi,Defoliators
+-1,12031,scarlet oak sawfly,Caliroa quercuscoccineae,Defoliators
+-1,12032,elm calligrapha,Calligrapha scalaris,Defoliators
+-1,12033,boxelder leafroller,Caloptilia negundella,Defoliators
+-1,12034,maple petiole borer,Caulocampus acericaulis,Defoliators
+-1,12035,spruce webspinning sawfly,Cephalcia fascipennis,Defoliators
+-1,12036,two-year-cycle budworm,Choristoneura biennis,Defoliators
+-1,12037,large aspen tortrix,Choristoneura conflictana,Defoliators
+-1,12038,spruce budworm,Choristoneura fumiferana,Defoliators
+-1,12039,western pine budworm,Choristoneura lambertiana,Defoliators
+-1,12040,western spruce budworm,Choristoneura freemani,Defoliators
+-1,12041,jack pine budworm,Choristoneura pinus,Defoliators
+-1,12042,Modoc budworm,Choristoneura retiniana,Defoliators
+-1,12043,aspen leaf beetle,Chrysomela crotchi,Defoliators
+-1,12044,cottonwood leaf beetle,Chrysomela scripta,Defoliators
+-1,12045,leafhopper,<Cicadellidae>,Defoliators
+-1,12046,poplar tentmaker,Clostera inclusa,Defoliators
+-1,12047,larch casebearer,Coleophora laricella,Defoliators
+-1,12048,birch casebearer,Coleophora serratella,Defoliators
+-1,12049,lodgepole needleminer,Coleotechnites milleri,Defoliators
+-1,12050,Gelechiid moths/needleminers,Coleotechnites spp.,Defoliators
+-1,12051,Black Hills pandora moth,Coloradia doris,Defoliators
+-1,12052,pandora moth,Coloradia pandora,Defoliators
+-1,12053,sycamore lace bug,Corythucha ciliata,Defoliators
+-1,12054,lace bugs,Corythucha spp.,Defoliators
+-1,12055,oak leaftier,Croesia semipurpurana,Defoliators
+-1,12056,dusky birch sawfly,Croesus latitarsus,Defoliators
+-1,12057,walnut caterpillar,Datana integerrima,Defoliators
+-1,12058,yellownecked caterpillar,Datana ministra,Defoliators
+-1,12059,walkingstick,Diapheromera femorata,Defoliators
+-1,12061,introduced pine sawfly,Diprion similis,Defoliators
+-1,12062,greenstriped mapleworm,Dryocampa rubicunda,Defoliators
+-1,12064,elm spanworm,Ennomos subsignaria,Defoliators
+-1,12065,maple trumpet skeletonizer,Epinotia aceriella,Defoliators
+-1,12066,white fir needleminer,Epinotia meritana,Defoliators
+-1,12067,linden looper,Erannis tiliaria,Defoliators
+-1,12068,browntail moth,Euproctis chrysorrhoea,Defoliators
+-1,12069,pine needleminer,Exoteleia pinifoliella,Defoliators
+-1,12070,birch leafminer,Fenusa pusilla,Defoliators
+-1,12071,elm leafminer,Kaliofenusa ulmi,Defoliators
+-1,12072,geometrid moth,<Geometridae>,Defoliators
+-1,12073,leafblotch miner,<Gracillariidae>,Defoliators
+-1,12074,spotted tussock moth,Lophocampa maculata,Defoliators
+-1,12075,pale tussock moth,Lophocampa tessellaris,Defoliators
+-1,12076,hesperiid moth,Hasora chromus,Defoliators
+-1,12077,brown day moth,Hemileuca eglanterina,Defoliators
+-1,12078,buck moth,Hemileuca maia,Defoliators
+-1,12079,saddled prominent,Heterocampa guttivitta,Defoliators
+-1,12080,variable oakleaf caterpillar,Lochmaeus manteo,Defoliators
+-1,12081,cherry scallop shell moth,Hydria prunivorata,Defoliators
+-1,12082,fall webworm,Hyphantria cunea,Defoliators
+-1,12083,hemlock looper,Lambdina fiscellaria,Defoliators
+-1,12084,oak looper,Lambdina punctata,Defoliators
+-1,12085,tent caterpillar moth,<Lasiocampidae>,Defoliators
+-1,12086,satin moth,Leucoma salicis,Defoliators
+-1,12087,willow leafblotch miner,Lithocolletis spp.,Defoliators
+-1,12088,aspen blotchminer,Phyllonorycter tremuloidiella,Defoliators
+-1,12089,gypsy moth,Lymantria dispar,Defoliators
+-1,12090,cottonwood leafminers,Lyonetia spp.,Defoliators
+-1,12091,dogwood sawfly,Macremphytus tarsatus,Defoliators
+-1,12092,rose chafer,Macrodactylus subspinosus,Defoliators
+-1,12093,eastern tent caterpillar,Malacosoma americanum,Defoliators
+-1,12094,western tent caterpillar,Malacosoma californicum,Defoliators
+-1,12095,Pacific tent caterpillar,Malacosoma constrictum,Defoliators
+-1,12096,forest tent caterpillar,Malacosoma disstria,Defoliators
+-1,12097,southwestern tent caterpillar,Malacosoma incurvum,Defoliators
+-1,12098,leafcutting bees,<Megachilidae>,Defoliators
+-1,12100,early birch leaf edgeminer,Messa nana,Defoliators
+-1,12101,juniper sawfly,Monoctenus fulvus,Defoliators
+-1,12102,common sawflies,Nematus spp.,Defoliators
+-1,12103,balsam fir sawfly,Neodiprion abietis,Defoliators
+-1,12104,lodgepole sawfly,Neodiprion burkei,Defoliators
+-1,12105,blackheaded pine sawfly,Neodiprion excitans,Defoliators
+-1,12106,pine infesting sawflies,Neodiprion fulviceps sp. complex,Defoliators
+-1,12107,redheaded pine sawfly,Neodiprion lecontei,Defoliators
+-1,12109,ponderosa pine sawfly,Neodiprion mundus,Defoliators
+-1,12110,white pine sawfly,Neodiprion pinetum,Defoliators
+-1,12111,jack pine sawfly,Neodiprion pratti banksianae,Defoliators
+-1,12112,Virginia pine sawfly,Neodiprion pratti pratti,Defoliators
+-1,12113,European pine sawfly,Neodiprion sertifer,Defoliators
+-1,12114,loblolly pine sawfly,Neodiprion taedae linearis,Defoliators
+-1,12115,hemlock sawfly,Neodiprion tsugae,Defoliators
+-1,12116,pine butterfly,Neophasia menapia,Defoliators
+-1,12117,false hemlock looper,Nepytia canosaria,Defoliators
+-1,12119,locust leafminer,Odontota dorsalis,Defoliators
+-1,12120,Bruce spanworm,Operophtera bruceata,Defoliators
+-1,12121,rusty tussock moth,Orgyia antiqua,Defoliators
+-1,12122,whitemarked tussock moth,Orgyia leucostigma,Defoliators
+-1,12123,Douglas-fir tussock moth,Orgyia pseudotsugata,Defoliators
+-1,12124,western tussock moth,Orgyia vetusta,Defoliators
+-1,12125,spring cankerworm,Paleacrita vernata,Defoliators
+-1,12126,black citrus swallowtail butterfly,Papilio polytes,Defoliators
+-1,12127,maple leafcutter,Paraclemensia acerifoliella,Defoliators
+-1,12128,pine tussock moth,Dasychira pinicola,Defoliators
+-1,12129,poinciana looper,Pericyma cruegeri,Defoliators
+-1,12130,half-wing geometer,Phigalia titea,Defoliators
+-1,12131,Phoberia moth,Phoberia atomaris,Defoliators
+-1,12132,California oakworm,Phryganidia californica,Defoliators
+-1,12133,European snout beetle,Phyllobius oblongus,Defoliators
+-1,12134,citrus leafminer,Phyllocnistis citrella,Defoliators
+-1,12135,aspen leafminer,Phyllocnistis populiella,Defoliators
+-1,12136,yellowheaded spruce sawfly,Pikonema alaskensis,Defoliators
+-1,12137,tenlined June beetle,Polyphylla decemlineata,Defoliators
+-1,12138,Japanese beetle,Popillia japonica,Defoliators
+-1,12139,larch sawfly,Pristiphora erichsonii,Defoliators
+-1,12140,mountain-ash sawfly,Pristiphora geniculata,Defoliators
+-1,12141,elm leaf beetle,Xanthogaleruca luteola,Defoliators
+-1,12142,spear-marked black moth,Rheumaptera hastata,Defoliators
+-1,12143,giant silkworm moth,<Saturniidae>,Defoliators
+-1,12144,redhumped caterpillar,Schizura concinna,Defoliators
+-1,12145,redbanded thrips,Selenothrips rubrocinctus,Defoliators
+-1,12146,green larch looper,Semiothisa sexmaculata,Defoliators
+-1,12147,maple leafroller,Sparganothis acerivorana,Defoliators
+-1,12148,redhumped oakworm,Symmerista canicosta,Defoliators
+-1,12149,orangehumped mapleworm,Symmerista leucitys,Defoliators
+-1,12150,spruce needleminer,Taniva albolineana,Defoliators
+-1,12151,maple webworm,Tetralopha asperatella,Defoliators
+-1,12152,pine webworm,Pococera robustella,Defoliators
+-1,12153,introduced basswood thrips,Thrips calcaratus,Defoliators
+-1,12154,bagworm,Thyridopteryx ephemeraeformis,Defoliators
+-1,12155,leafroller/seed moth,<Tortricidae> [leafroller / seed moth],Defoliators
+-1,12156,willow defoliation,"<Tortricidae> [willow defoliation]
+",Defoliators
+-1,12157,euonymus caterpillar,Yponomeuta spp.,Defoliators
+-1,12158,spruce bud moth,Zeiraphera canadensis,Defoliators
+-1,12159,larch bud moth,Zeiraphera improbana,Defoliators
+-1,12160,pine needle sheathminer,Zelleria haimbachi,Defoliators
+-1,12161,cypress looper,Anacamptodes pergracilis,Defoliators
+-1,12162,Chrysomela leaf beetle,Chrysomela spp.,Defoliators
+-1,12163,pine colaspis,Colaspis pini,Defoliators
+-1,12164,saddleback looper,Ectropis crepuscularia,Defoliators
+-1,12165,birch leafroller,Epinotia solandriana,Defoliators
+-1,12166,New Mexico fir looper,Galenara consimilis,Defoliators
+-1,12167,striped alder sawfly,Hemichroa crocea,Defoliators
+-1,12168,greenstriped looper,Melanolophia imitata,Defoliators
+-1,12169,willow leaf blotchminer,Micrurapteryx salicifoliella,Defoliators
+-1,12170,pine sawfly,Neodiprion autumnalis,Defoliators
+-1,12171,pinyon sawfly,Neodiprion edulicolus,Defoliators
+-1,12172,<Neodiprion gillettei>,Neodiprion gillettei,Defoliators
+-1,12173,<Neodiprion ventralis>,Neodiprion ventralis,Defoliators
+-1,12174,pine looper,Phaeoura mexicanaria,Defoliators
+-1,12175,<Zadiprion rohweri>,Zadiprion rohweri,Defoliators
+-1,12176,bull pine sawfly,Zadiprion townsendi,Defoliators
+-1,12177,Douglas-fir budmoth,Zeiraphera hesperiana,Defoliators
+-1,12178,western oak looper,Lambdina fiscellaria somniaria,Defoliators
+-1,12179,phantom hemlock looper,Nepytia phantasmaria,Defoliators
+-1,12180,tent caterpillars,Malacosoma spp.,Defoliators
+-1,12181,Abbot's sawfly,Neodiprion abbotii,Defoliators
+-1,12182,slash pine sawfly,Neodiprion merkeli,Defoliators
+-1,12183,sand pine sawfly,Neodiprion pratti,Defoliators
+-1,12184,melalueca leaf weevil,Oxyops vitiosa,Defoliators
+-1,12185,cypress leaf beetle,Systena marginalis,Defoliators
+-1,12186,<Nepytia janetae>,Nepytia janetae,Defoliators
+-1,12187,agromyzid fly,Agromyza viridula,Defoliators
+-1,12188,elm sawfly,Cimbex americana,Defoliators
+-1,12190,hickory tussock moth,Lophocampa caryae,Defoliators
+-1,12191,pin oak sawfly,Caliroa lineata,Defoliators
+-1,12192,palmerworm,Dichomeris ligulella,Defoliators
+-1,12193,pitch pine looper,Lambdina athasaria pellucidaria,Defoliators
+-1,12194,red pine sawfly,Neodiprion nanulus nanulus,Defoliators
+-1,12195,pine tube moth,Argyrotaenia pinatubana,Defoliators
+-1,12196,baldcypress leafroller,Archips goyerana,Defoliators
+-1,12197,winter moth,Operophtera brumata,Defoliators
+-1,12198,basswood thrips,Neohydatothrips tiliae,Defoliators
+-1,12199,noctuid moth,Xylomyges simplex,Defoliators
+-1,12200,ash leafroller,Palpita magniferalis,Defoliators
+-1,12201,Pacific silver fir budmoth,Zeiraphera spp.,Defoliators
+-1,12202,red pine needle midge,Thecodiplosis piniresinosae,Defoliators
+-1,12203,western hemlock looper,Lambdina fiscellaria lugubrosa,Defoliators
+-1,12204,lodgepole pine sawfly,Neodiprion nanulus contortae,Defoliators
+-1,12205,silverspotted tiger moth,Lophocampa argentata,Defoliators
+-1,12206,green alder sawfly,Monsoma pulveratum,Defoliators
+-1,12207,conifer sawflies,Neodiprion spp.,Defoliators
+-1,12208,ambermarked birch leafminer,Profenusa thomsoni,Defoliators
+-1,12209,cycad blue butterfly,Chilades pandava,Defoliators
+-1,12210,European elm flea weevil,Orchestes alni,Defoliators
+-1,12211,eucalyptus snout beetle,Gonipterus scutellatus,Defoliators
+-1,12212,European pine needle midge,Contarinia baeri,Defoliators
+-1,12213,European spruce needleminer,Epinotia nanana,Defoliators
+-1,12214,European web-spinning larch sawfly,Cephalcia lariciphila,Defoliators
+-1,12215,imported willow leaf beetle,Plagiodera versicolora,Defoliators
+-1,12216,mimosa webworm,Homadaula anisocentra,Defoliators
+-1,12217,poplar sawfly,Trichiocampus viminalis,Defoliators
+-1,12218,red gum lerp psyllid,Glycaspis brimblecombei,Defoliators
+-1,12219,European spruce sawfly,Gilpinia hercyniae,Defoliators
+-1,12220,mountain-mahogany moth,Ethmia discostrigella,Defoliators
+-1,12221,Myoporum thrips,Klambothrips myopori,Defoliators
+-1,12222,koa looper moth,Scotorythra paludicola,Defoliators
+-1,12223,bare-patched oak leafroller,Pseudexentera spoliana,Defoliators
+-1,12224,Chinese rose beetle,Adoretus sinicus,Defoliators
+-1,12225,rose beetle,Adoretus versutus,Defoliators
+-1,12226,coconut hispid beetle,Brontispa longissima,Defoliators
+-1,12227,green rose chafer,Dichelonyx backi,Defoliators
+-1,12228,stick insect,Graeffea crouanii,Defoliators
+-1,12229,<Hulodes caranea>,Hulodes caranea,Defoliators
+-1,12230,bagworm moth,<Psychidae>,Defoliators
+-1,12231,Palau coconut beetle,Brontispa palauenis,Defoliators
+-1,12232,madrone thrips,Thrips madronii,Defoliators
+-1,12233,thrips,<Thysanoptera>,Defoliators
+-1,12234,fall hardwood defoliator group,<fall hardwood defoliator group>,Defoliators
+-1,12235,aroga moth,Aroga websteri,Defoliators
+-1,12236,aspen twoleaf tier,Enargia decolor,Defoliators
+-1,12237,early aspen Leafroller,Pseudexentera oregonana,Defoliators
+-1,12238,cottonwood leafblotch miner,Phyllonorycter nipigan,Defoliators
+-1,12239,tamarisk leaf beetles,Diorhabda spp.,Defoliators
+-1,12240,mountain girdle,Enypia griseatta,Defoliators
+-1,12241,box-elder tussock moth,Orgyia leuschneri,Defoliators
+-1,12242,spruce budworm (C. orae),Choristoneura orae,Defoliators
+-1,12243,battered sallow,Sunira verberata,Defoliators
+-1,12244,western false hemlock looper,Nepytia freemani,Defoliators
+-1,12245,speckled green fruitworm,Orthosia hibisci,Defoliators
+-1,12246,late birch leaf edgeminer,Heterarthrus nemoratus,Defoliators
+-1,12247,autumnal moth,Epirrita autumnata,Defoliators
+-1,12248,alder woolly sawfly,Eriocampa ovata,Defoliators
+-1,12249,leaf beetles,<leaf beetles>,Defoliators
+-1,12250,leafminers,<leafminers>,Defoliators
+-1,12251,basswood leafminer,"Baliosus nervosus
+",Defoliators
+-1,12257,leafrollers,<leafrollers>,Defoliators
+-1,12300,budworm,<budworms>,Defoliators
+-1,12800,"other defoliator, known (code pending)","<other defoliator, known (code pending)>",Defoliators
+-1,12900,unknown defoliator,<unknown defoliator>,Defoliators
+-1,13000,other chewing insects and allies,<other chewing insects and allies>,Other Chewing Insects and Allies
+-1,13001,grasshopper,<grasshopper>,Other Chewing Insects and Allies
+-1,13002,shorthorn grasshoppers,<Acrididae>,Other Chewing Insects and Allies
+-1,13003,black cutworm,Agrotis ipsilon,Other Chewing Insects and Allies
+-1,13005,clearwinged grasshopper,Camnula pellucida,Other Chewing Insects and Allies
+-1,13006,cicadas,<Cicadidae>,Other Chewing Insects and Allies
+-1,13008,<Euxoa excellens>,Euxoa excellens,Other Chewing Insects and Allies
+-1,13009,whitefringed beetles,Graphognathus spp.,Other Chewing Insects and Allies
+-1,13011,vegetable weevil,Listroderes difficilis,Other Chewing Insects and Allies
+-1,13012,periodical cicada,<periodical cicada>,Other Chewing Insects and Allies
+-1,13013,migratory grasshopper,Melanoplus sanguinipes,Other Chewing Insects and Allies
+-1,13014,valley grasshopper,Oedaleonotus enigma,Other Chewing Insects and Allies
+-1,13015,strawberry root weevil,Otiorhynchus ovatus,Other Chewing Insects and Allies
+-1,13016,black vine weevil,Otiorhynchus sulcatus,Other Chewing Insects and Allies
+-1,13017,pandanus beetle,Oxycephala pandani,Other Chewing Insects and Allies
+-1,13018,spaeth pandanus,Oxycephala spaethi,Other Chewing Insects and Allies
+-1,13019,agamemnon butterfly,Papilio agamemnon,Other Chewing Insects and Allies
+-1,13022,pine needle weevil,Scythropus spp.,Other Chewing Insects and Allies
+-1,13023,coconut longhorned grasshopper,Segestes unicolor,Other Chewing Insects and Allies
+-1,13024,clover root curculio,Sitona hispidulus,Other Chewing Insects and Allies
+-1,13027,shorthorned grasshopper,Valanga nigricornis,Other Chewing Insects and Allies
+-1,13029,eastern pine weevil,"Pissodes nemorensis
+",Other Chewing Insects and Allies
+-1,13031,Asiatic oak weevil,Cyrtepistomus castaneus,Other Chewing Insects and Allies
+-1,13032,weevil,<Curculionidae>,Other Chewing Insects and Allies
+-1,13033,Caroline shortnosed weevil,Lophothetes spp.,Other Chewing Insects and Allies
+-1,13034,conifer seedling weevil,Steremnius carinatus,Other Chewing Insects and Allies
+-1,13800,"other chewing insect or ally, known (code pending)","<other chewing insect or ally, known (code pending)>",Other Chewing Insects and Allies
+-1,13900,unknown chewing insect or ally,<unknown chewing insect or ally>,Other Chewing Insects and Allies
+-1,14000,sap feeders,<sap feeders>,Sap Feeders
+-1,14001,scale insects,<Coccodidea>,Sap Feeders
+-1,14002,western larch woolly aphid,Adelges oregonensis,Sap Feeders
+-1,14003,balsam woolly adelgid,Adelges piceae,Sap Feeders
+-1,14004,hemlock woolly adelgid,Adelges tsugae,Sap Feeders
+-1,14005,spiraling whitefly,Aleurodicus dispersus,Sap Feeders
+-1,14006,aphid,<Aphididae>,Sap Feeders
+-1,14007,pine spittlebug,Aphrophora cribrata,Sap Feeders
+-1,14008,western pine spittlebug,Aphrophora permutata,Sap Feeders
+-1,14009,Saratoga spittlebug,Aphrophora saratogensis,Sap Feeders
+-1,14010,spittlebug,<Cercopidae>,Sap Feeders
+-1,14011,wax scale,Ceroplastes spp.,Sap Feeders
+-1,14012,pine needle scale,Chionaspis pinifoliae,Sap Feeders
+-1,14014,giant conifer aphids,Cinara spp.,Sap Feeders
+-1,14015,white pine aphid,Cinara strobi,Sap Feeders
+-1,14016,beech scale,Cryptococcus fagisuga,Sap Feeders
+-1,14017,spruce aphid,Elatobium abietinum,Sap Feeders
+-1,14018,woolly apple aphid,Eriosoma lanigerum,Sap Feeders
+-1,14019,striped mealybug,Ferrisia virgata,Sap Feeders
+-1,14020,elongate hemlock scale,Fiorinia externa,Sap Feeders
+-1,14021,coconut red scale,Furcaspis oceanica,Sap Feeders
+-1,14022,pine thrips,Gnophothrips spp.,Sap Feeders
+-1,14023,leucaena psyllid,Heteropsylla cubana,Sap Feeders
+-1,14024,honeysuckle aphids,Hyadaphis tataricae,Sap Feeders
+-1,14025,Egyptian fluted scale,Icerya aegyptiaca,Sap Feeders
+-1,14026,Lecanium scale,Lecanium spp.,Sap Feeders
+-1,14027,common falsepit scale,Lecanodiaspis prosopidis,Sap Feeders
+-1,14028,oystershell scale,Lepidosaphes ulmi,Sap Feeders
+-1,14029,pinyon needle scale,Matsucoccus acalyptus,Sap Feeders
+-1,14030,ponderosa pine twig scale,Matsucoccus bisetosus,Sap Feeders
+-1,14031,pine twig scale,Matsucoccus californicus,Sap Feeders
+-1,14032,ponderosa pine scale,Matsucoccus degeneratus,Sap Feeders
+-1,14033,red pine scale,Matsucoccus resinosae,Sap Feeders
+-1,14034,Prescott scale,Matsucoccus vexillorum,Sap Feeders
+-1,14035,treehoopers,<Membracidae>,Sap Feeders
+-1,14036,hibiscus psyllid,Mesohomotoma hibisci,Sap Feeders
+-1,14037,balsam twig aphid,Mindarus abietinus,Sap Feeders
+-1,14038,hibiscus mealybug,Nipaecoccus viridis,Sap Feeders
+-1,14039,black pineleaf scale,Nuculaspis californica,Sap Feeders
+-1,14040,spruce spider mite,Oligonychus ununguis,Sap Feeders
+-1,14042,woolly alder aphid,Paraprociphilus tessellatus,Sap Feeders
+-1,14043,maple aphids,Periphyllus spp.,Sap Feeders
+-1,14044,spruce bud scale,Physokermes piceae,Sap Feeders
+-1,14045,red pine adelgid,Pineus borneri,Sap Feeders
+-1,14046,pine leaf adelgid,Pineus pinifoliae,Sap Feeders
+-1,14047,white pine adelgid,"Pineus spp.
+",Sap Feeders
+-1,14048,pine bark adelgid,Pineus strobi,Sap Feeders
+-1,14049,smoky-winged ash aphid,Prociphilus americanus,Sap Feeders
+-1,14050,mealybug,<Pseudococcidae>,Sap Feeders
+-1,14051,cottony maple scale,Pulvinaria innumerabilis,Sap Feeders
+-1,14052,fir mealybug,Puto cupressi,Sap Feeders
+-1,14053,Douglas-fir mealybug,Puto profusus,Sap Feeders
+-1,14054,spruce mealybug,Puto sandini,Sap Feeders
+-1,14055,hemispherical scale,Saissetia coffeae,Sap Feeders
+-1,14056,woolly pine needle aphid,Schizolachnus piniradiatae,Sap Feeders
+-1,14057,steatococcus scale,Steatococcus samaraius,Sap Feeders
+-1,14058,pear thrips,Taeniothrips inconsequens,Sap Feeders
+-1,14059,mulberry whitefly,Tetraleurodes mori,Sap Feeders
+-1,14060,tuliptree scale,Toumeyella liriodendri,Sap Feeders
+-1,14061,pine tortoise scale,Toumeyella parvicornis,Sap Feeders
+-1,14062,citrus snow scale,Unaspis citri,Sap Feeders
+-1,14063,birch aphid,Euceraphis betulae,Sap Feeders
+-1,14064,Kermes scale,Allokermes spp.,Sap Feeders
+-1,14065,Casuarina spittlebug,Clastoptera undulata,Sap Feeders
+-1,14066,giant bark aphid,Longistigma caryae,Sap Feeders
+-1,14067,woolly pine scale,Pseudophilippia quaintancii,Sap Feeders
+-1,14068,European elm scale,Gossyparia spuria,Sap Feeders
+-1,14069,elm scurfy scale,Chionaspis americana,Sap Feeders
+-1,14070,magnolia scale,Neolecanium cornuparvum,Sap Feeders
+-1,14071,beech blight aphid,Fagiphagus imbricator,Sap Feeders
+-1,14072,beech woolly aphid,Phyllaphis fagi,Sap Feeders
+-1,14073,Asian cycad scale,Aulacaspis yasumatsui,Sap Feeders
+-1,14074,European fruit lecanium scale,Parthenolecanium corni,Sap Feeders
+-1,14075,lobate lac scale,Paratachardina lobata,Sap Feeders
+-1,14076,calico scale,Eulecanium cerasorum,Sap Feeders
+-1,14077,California red scale,Aonidiella aurantii,Sap Feeders
+-1,14078,circular hemlock scale,Nuculaspis tsugae,Sap Feeders
+-1,14079,cottony cushion scale,Icerya purchasi,Sap Feeders
+-1,14080,eucalyptus psyllid,Blastopsylla occidentalis,Sap Feeders
+-1,14081,golden oak scale,Asterolecanium variolosum,Sap Feeders
+-1,14082,juniper scale,Carulaspis juniperi,Sap Feeders
+-1,14083,pink hibiscus mealybug,Maconellicoccus hirsutus,Sap Feeders
+-1,14084,San Jose scale,Diaspidiotus perniciosus,Sap Feeders
+-1,14085,oak pit scale A. minus,Asterolecanium minus,Sap Feeders
+-1,14086,bluegum psyllid,Ctenarytaina eucalypti,Sap Feeders
+-1,14087,linden aphid,Eucallipterus tiliae,Sap Feeders
+-1,14088,Norway maple aphid,Periphyllus lyropictus,Sap Feeders
+-1,14089,camphor scale,Pseudaonidia duplex,Sap Feeders
+-1,14090,spotted lanternfly,Lycorma delicatula,Sap Feeders
+-1,14091,ash whitefly,Siphoninus phillyreae,Sap Feeders
+-1,14093,ash plant bug,Tropidosteptes amoenus,Sap Feeders
+-1,14094,coconut scale,Aspidiotus destructor,Sap Feeders
+-1,14095,leafhopper,<Cicadellidae>,Sap Feeders
+-1,14096,California tortoiseshell,Nymphalis californica,Sap Feeders
+-1,14097,tarnished plant bug,Lygus lineolaris,Sap Feeders
+-1,14098,adelgids,<Adelgidae>,Sap Feeders
+-1,14099,harrisia cactus mealybug,Hypogeococcus pungens,Sap Feeders
+-1,14800,"other sap feeder, known (code pending)","<other sap feeder, known (code pending)>",Sap Feeders
+-1,14900,unknown sap feeder,<unknown sap feeder>,Sap Feeders
+-1,15000,wood borers,<wood borers>,Wood Borers
+-1,15001,shoot borers,<shoot borers>,Wood Borers
+-1,15002,termites,<Termitoidae>,Wood Borers
+-1,15003,ponderosa pine bark borer,Acanthocinus princeps,Wood Borers
+-1,15004,bronze birch borer,Agrilus anxius,Wood Borers
+-1,15005,twolined chestnut borer,Agrilus bilineatus,Wood Borers
+-1,15006,bronze poplar borer,Agrilus liragus,Wood Borers
+-1,15007,carpenter bees,<Apidae>,Wood Borers
+-1,15008,flatheaded borer,<Buprestidae>,Wood Borers
+-1,15009,golden buprestid,Buprestis aurulenta,Wood Borers
+-1,15010,carpenter ants,Camponotus spp.,Wood Borers
+-1,15011,gouty pitch midge,Cecidomyia piniinopis,Wood Borers
+-1,15012,shootboring sawflies,<Cephidae>,Wood Borers
+-1,15013,roundheaded borer,<Cerambycidae>,Wood Borers
+-1,15014,flatheaded appletree borer,Chrysobothris femorata,Wood Borers
+-1,15016,Columbian timber beetle,Corthylus columbianus,Wood Borers
+-1,15017,pitted ambrosia beetle,Corthylus punctatissimus,Wood Borers
+-1,15018,carpenterworm moths,<Cossidae>,Wood Borers
+-1,15019,poplar-and-willow borer,Cryptorhynchus lapathi,Wood Borers
+-1,15022,Zimmerman pine moth,Dioryctria zimmermani,Wood Borers
+-1,15025,lesser cornstalk borer,Elasmopalpus lignosellus,Wood Borers
+-1,15026,red oak borer,Enaphalodes rufulus,Wood Borers
+-1,15027,ponderous borer,Ergates spiculatus,Wood Borers
+-1,15030,Eucosma shoot borers,Eucosma spp.,Wood Borers
+-1,15031,sugar maple borer,Glycobius speciosus,Wood Borers
+-1,15032,Goes longhorn beetles,Goes spp.,Wood Borers
+-1,15033,pine root collar weevil,Hylobius radicis,Wood Borers
+-1,15035,powderpost beetles,<Lyctidae>,Wood Borers
+-1,15036,tarnished plant bug,"Lygus lineolaris
+",Wood Borers
+-1,15037,bark weevils,Magdalis spp.,Wood Borers
+-1,15038,white pine barkminer moth,Marmara fasciella,Wood Borers
+-1,15039,locust borer,Megacyllene robiniae,Wood Borers
+-1,15040,California flatheaded borer,Phaenops californica,Wood Borers
+-1,15041,flatheaded fir borer,Phaenops drummondi,Wood Borers
+-1,15042,whitespotted sawyer,Monochamus scutellatus,Wood Borers
+-1,15043,redheaded ash borer,Neoclytus acuminatus,Wood Borers
+-1,15044,western ash borer,Neoclytus conjunctus,Wood Borers
+-1,15045,oberea shoot borers,Oberea spp.,Wood Borers
+-1,15046,eucalyptus longhorned borer (P. semipunctata),Phoracantha semipunctata,Wood Borers
+-1,15047,northern pine weevil,Pissodes approximatus,Wood Borers
+-1,15048,balsam bark weevil,Pissodes striatulus,Wood Borers
+-1,15049,Monterey pine weevil,Pissodes radiatae,Wood Borers
+-1,15050,Engelmann spruce weevil,Pissodes strobi,Wood Borers
+-1,15052,ambrosia beetles,Platypus spp.,Wood Borers
+-1,15053,cottonwood borer,Plectrodera scalator,Wood Borers
+-1,15054,balsam shootboring sawfly,Pleroneura brunneicornis,Wood Borers
+-1,15055,pine gall weevil,Podapion gallicola,Wood Borers
+-1,15056,ash borer,Podosesia syringae fraxini,Wood Borers
+-1,15057,ash borer / lilac borer,Podosesia syringae,Wood Borers
+-1,15058,carpenterworm,Prionoxystus robiniae,Wood Borers
+-1,15059,maple shoot borers,Proteoteras spp.,Wood Borers
+-1,15060,western subterranean termite,Reticulitermes hesperus,Wood Borers
+-1,15061,coconut trunk weevil,Rhabdoscelus asperipennis,Wood Borers
+-1,15062,New Guinea sugarcane weevil,Rhabdoscelus obscurus,Wood Borers
+-1,15065,Nantucket pine tip moth,Rhyacionia frustrana,Wood Borers
+-1,15068,poplar borer,Saperda calcarata,Wood Borers
+-1,15069,roundheaded appletree borer,Saperda candida,Wood Borers
+-1,15070,Saperda shoot borer,Saperda spp.,Wood Borers
+-1,15071,clearwing moths,<Sesiidae>,Wood Borers
+-1,15072,dogwood borer,Synanthedon scitula,Wood Borers
+-1,15073,roundheaded fir borer,Tetropium abietis,Wood Borers
+-1,15074,western larch borer,Tetropium velutinum,Wood Borers
+-1,15075,western cedar borer,Trachykele blondeli,Wood Borers
+-1,15076,Douglas-fir pitch moth,Synanthedon novaroensis,Wood Borers
+-1,15077,sequoia pitch moth,Synanthedon sequoiae,Wood Borers
+-1,15078,black twig borer,Xylosandrus compactus,Wood Borers
+-1,15079,Pacific dampwood termite,Zootermopsis angusticollis,Wood Borers
+-1,15081,granulate ambrosia beetle,Xylosandrus crassiusculus,Wood Borers
+-1,15082,Asian longhorned beetle,Anoplophora glabripennis,Wood Borers
+-1,15084,southern pine sawyer,Monochamus titillator,Wood Borers
+-1,15085,banded ash borer,Neoclytus caprea,Wood Borers
+-1,15086,Sitka spruce weevil,Pissodes sitchensis,Wood Borers
+-1,15087,emerald ash borer,Agrilus planipennis,Wood Borers
+-1,15088,hemlock borer,Melanophila fulvoguttata,Wood Borers
+-1,15089,Formosan subterranean termite,Coptotermes formosanus,Wood Borers
+-1,15090,sirex woodwasp,Sirex noctilio,Wood Borers
+-1,15091,Oregon fir sawyer,Monochamus scutellatus oregonensis,Wood Borers
+-1,15092,cypress weevil,Eudociminus mannerheimii,Wood Borers
+-1,15093,camphor shot borer,Cnestus mutilatus,Wood Borers
+-1,15094,goldspotted oak borer,Agrilus auroguttatus,Wood Borers
+-1,15095,European oak borer,Agrilus sulcicollis,Wood Borers
+-1,15096,black stem borer,Xylosandrus germanus,Wood Borers
+-1,15097,<Icosium tomentosum>,Icosium tomentosum,Wood Borers
+-1,15098,cherry bark tortrix,Enarmonia formosana,Wood Borers
+-1,15099,eucalyptus longhorned borer (P. recurva),Phoracantha recurva,Wood Borers
+-1,15100,Japanese cedar longhorn beetle,Callidellum rufipenne,Wood Borers
+-1,15101,peach twig borer,Anarsia lineatella,Wood Borers
+-1,15102,soapberry borer,Agrilus prionurus,Wood Borers
+-1,15103,oak splendor beetle,Agrilus biguttatus,Wood Borers
+-1,15104,polyphagous shot hole borer,Euwallacea nov. sp.,Wood Borers
+-1,15105,oak twig pruner,Anelaphus parallelus,Wood Borers
+-1,15106,horntails,<Siricidae>,Wood Borers
+-1,15107,striped ambrosia beetle,Trypodendron lineatum,Wood Borers
+-1,15108,redbay ambrosia beetle,Xyleborus glabratus,Wood Borers
+-1,15109,eastern poplar buprestid,Poecilonota cyanipes,Wood Borers
+-1,15110,flatheaded poplar borer,Dicerca tenebrica,Wood Borers
+-1,15111,Mexican goldspotted oak borer,Agrilus coxalis,Wood Borers
+-1,15800,"other wood borer, known (code pending)","<other wood borer, known (code pending)>",Wood Borers
+-1,15900,unknown wood borer,<unknown wood borer>,Wood Borers
+-1,16000,seed/cone/flower/fruit feeders,<seed/cone/flower/fruit feeders?,Seed/Cone/Flower/Fruit Feeders
+-1,16001,Douglas-fir cone moth,Barbara colfaxiana,Seed/Cone/Flower/Fruit Feeders
+-1,16002,lodgepole cone beetle,Conophthorus contortae,Seed/Cone/Flower/Fruit Feeders
+-1,16003,limber pine cone beetle,Conophthorus flexilis,Seed/Cone/Flower/Fruit Feeders
+-1,16004,mountain pine cone beetle,Conophthorus monticolae,Seed/Cone/Flower/Fruit Feeders
+-1,16005,ponderosa pine cone beetle,Conophthorus ponderosae,Seed/Cone/Flower/Fruit Feeders
+-1,16006,Monterey pine cone beetle,Conophthorus radiatae,Seed/Cone/Flower/Fruit Feeders
+-1,16007,red pine cone beetle,Conophthorus resinosae,Seed/Cone/Flower/Fruit Feeders
+-1,16008,white pine cone beetle,Conophthorus coniperda,Seed/Cone/Flower/Fruit Feeders
+-1,16009,black walnut curculio,Conotrachelus retentus,Seed/Cone/Flower/Fruit Feeders
+-1,16010,Douglas-fir cone gall midge,Contarinia oregonensis,Seed/Cone/Flower/Fruit Feeders
+-1,16011,Douglas-fir cone scale midge,Contarinia washingtonensis,Seed/Cone/Flower/Fruit Feeders
+-1,16012,acorn/nut weevils,Curculio spp.,Seed/Cone/Flower/Fruit Feeders
+-1,16013,Caroline fruitfly,Dacus frauenfeldi,Seed/Cone/Flower/Fruit Feeders
+-1,16014,spruce bud midge,Dasineura swainei,Seed/Cone/Flower/Fruit Feeders
+-1,16015,fir coneworm,Dioryctria abietivorella,Seed/Cone/Flower/Fruit Feeders
+-1,16016,southern pine coneworm,Dioryctria amatella,Seed/Cone/Flower/Fruit Feeders
+-1,16017,ponderosa pine coneworm,Dioryctria auranticella,Seed/Cone/Flower/Fruit Feeders
+-1,16018,loblolly pine coneworm,Dioryctria merkeli,Seed/Cone/Flower/Fruit Feeders
+-1,16019,ponderosa twig moth,Dioryctria ponderosae,Seed/Cone/Flower/Fruit Feeders
+-1,16020,<Dioryctria pseudotsugella>,Dioryctria pseudotsugella,Seed/Cone/Flower/Fruit Feeders
+-1,16021,Dioryctria moths,Dioryctria spp.,Seed/Cone/Flower/Fruit Feeders
+-1,16022,lodgepole cone moth,Eucosma rescissoriana,Seed/Cone/Flower/Fruit Feeders
+-1,16023,seed chalcid,<Eurytomidae>,Seed/Cone/Flower/Fruit Feeders
+-1,16024,slash pine flower thrips,Gnophothrips fuscus,Seed/Cone/Flower/Fruit Feeders
+-1,16025,white spruce cone maggot,Strobilomyia neanthracina,Seed/Cone/Flower/Fruit Feeders
+-1,16026,longleaf pine seed worm or moth,Laspeyresia ingens,Seed/Cone/Flower/Fruit Feeders
+-1,16027,ponderosa pine seed moth,Laspeyresia piperana,Seed/Cone/Flower/Fruit Feeders
+-1,16028,spruce seed moth,Cydia strobilella,Seed/Cone/Flower/Fruit Feeders
+-1,16029,boxelder bug,Boisea trivittata,Seed/Cone/Flower/Fruit Feeders
+-1,16030,leaffooted pine seed bug,Leptoglossus corculus,Seed/Cone/Flower/Fruit Feeders
+-1,16031,western conifer-seed bug,Leptoglossus occidentalis,Seed/Cone/Flower/Fruit Feeders
+-1,16032,hollyhock thrips,Liothrips varicornis,Seed/Cone/Flower/Fruit Feeders
+-1,16033,subalpine fir seed chalcid,Megastigmus lasiocarpae,Seed/Cone/Flower/Fruit Feeders
+-1,16034,spruce seed chalcid,Megastigmus piceae,Seed/Cone/Flower/Fruit Feeders
+-1,16035,pine seed chalcid,Megastigmus albifrons,Seed/Cone/Flower/Fruit Feeders
+-1,16036,fir seed chalcid,Megastigmus pinus,Seed/Cone/Flower/Fruit Feeders
+-1,16037,Douglas-fir seed chalcid,Megastigmus spermotrophus,Seed/Cone/Flower/Fruit Feeders
+-1,16038,yellow poplar weevil,Odontopus calceatus,Seed/Cone/Flower/Fruit Feeders
+-1,16039,fruitpiercing moth,Othreis fullonia,Seed/Cone/Flower/Fruit Feeders
+-1,16040,roundheaded cone borer,Paratimia conicola,Seed/Cone/Flower/Fruit Feeders
+-1,16041,mango shoot caterpillar,Penicillaria jocosatrix,Seed/Cone/Flower/Fruit Feeders
+-1,16042,coneworm (Phycitinae),<Phycitinae>,Seed/Cone/Flower/Fruit Feeders
+-1,16043,harvester ants,Pogonomyrmex spp.,Seed/Cone/Flower/Fruit Feeders
+-1,16044,citrus flower moth,Prays citri,Seed/Cone/Flower/Fruit Feeders
+-1,16045,fir cone maggot,Strobilomyia abietis,Seed/Cone/Flower/Fruit Feeders
+-1,16046,spruce cone maggot,Strobilomyia anthracina,Seed/Cone/Flower/Fruit Feeders
+-1,16047,shieldbacked pine seed bug,Tetyra bipunctata,Seed/Cone/Flower/Fruit Feeders
+-1,16049,prairie tent caterpillar,Malacosoma lutescens,Seed/Cone/Flower/Fruit Feeders
+-1,16050,jack pine tip beetle,Conophthorus banksianae,Seed/Cone/Flower/Fruit Feeders
+-1,16051,webbing coneworm,Dioryctria disclusa,Seed/Cone/Flower/Fruit Feeders
+-1,16052,blister coneworm,Dioryctria clarioralis,Seed/Cone/Flower/Fruit Feeders
+-1,16053,southern cone gall midge,Cecidomyia bisetosa,Seed/Cone/Flower/Fruit Feeders
+-1,16054,seed bugs,<Lygaeidae>,Seed/Cone/Flower/Fruit Feeders
+-1,16055,spruce coneworm,Dioryctria reniculelloides,Seed/Cone/Flower/Fruit Feeders
+-1,16800,"other seed/cone/flower/fruit feeder, known (code pending)","<other seed/cone/flower/fruit feeder, known (code pending)>",Seed/Cone/Flower/Fruit Feeders
+-1,16900,unknown seed/cone/flower/fruit feeder,<unknown seed/cone/flower/fruit feeder>,Seed/Cone/Flower/Fruit Feeders
+-1,17000,gallmakers,<gallmakers>,Gallmakers
+-1,17001,birch budgall mite,Aceria rudis,Gallmakers
+-1,17002,eastern spruce gall adelgid,Adelges abietis,Gallmakers
+-1,17003,Cooley spruce gall adelgid,Adelges cooleyi,Gallmakers
+-1,17004,horned oak gall,Callirhytis cornigera,Gallmakers
+-1,17005,oak gall wasp,Callirhytis quercusfutilis,Gallmakers
+-1,17006,gall midge,<Cecidomyiidae>,Gallmakers
+-1,17007,Douglas-fir needle midge,Contarinia pseudotsugae,Gallmakers
+-1,17008,gall mite,<Eriophyidae>,Gallmakers
+-1,17009,spruce gall midge,Mayetiola piceae,Gallmakers
+-1,17010,hackberry nipplegall maker,Pachypsylla celtidismamma,Gallmakers
+-1,17011,balsam gall midge,Paradiplosis tumifex,Gallmakers
+-1,17012,hickory gall phylloxera,Phylloxera caryaecaulis,Gallmakers
+-1,17013,gall aphid,<Phylloxeridae>,Gallmakers
+-1,17014,alder gall mite,Phytoptus laevis,Gallmakers
+-1,17015,psyllid,<Psyllidae>,Gallmakers
+-1,17016,sugarberry psyllid,Tetragonocephela flava,Gallmakers
+-1,17017,mountain apple psyllid,Trioza vitiensis,Gallmakers
+-1,17019,spider mites,Oligonychus spp.,Gallmakers
+-1,17020,cypress gall midges,Taxodiomyia spp.,Gallmakers
+-1,17021,jumping oak gall wasp,Neuroterus saltatorius,Gallmakers
+-1,17022,erythrina gall wasp,Quadrastichus erythrinae,Gallmakers
+-1,17023,chestnut gall wasp,Dryocosmus kuriphilus,Gallmakers
+-1,17024,crypt gall wasp,Callirhytis ceropteroides,Gallmakers
+-1,17800,"other gallmaker, known (code pending)","<other gallmaker, known (code pending)>",Gallmakers
+-1,17900,unknown gallmaker,<unknown gallmaker>,Gallmakers
+-1,18006,pine tip moths,<pine tip moths>,"Terminal Shoot, Twig, and Root Feeders"
+-1,18007,conifer swift moth,Korsheltellus gracilis,"Terminal Shoot, Twig, and Root Feeders"
+-1,18008,coconut rhinoceros beetle,Oryctes rhinoceros,"Terminal Shoot, Twig, and Root Feeders"
+-1,18009,scarab,<Scarabaeidae>,"Terminal Shoot, Twig, and Root Feeders"
+-1,18010,june beetle,Phyllophaga spp.,"Terminal Shoot, Twig, and Root Feeders"
+-1,18011,pales weevil,Hylobius pales,"Terminal Shoot, Twig, and Root Feeders"
+-1,18012,periodical cicada,Magicicada septendecim,"Terminal Shoot, Twig, and Root Feeders"
+-1,18013,northern pitch twig moth,Petrova albicapitana,"Terminal Shoot, Twig, and Root Feeders"
+-1,18014,ponderosa pine tip moth,Rhyacionia zozana,"Terminal Shoot, Twig, and Root Feeders"
+-1,18015,pitch-eating weevil,Pachylobius picivorus,"Terminal Shoot, Twig, and Root Feeders"
+-1,18016,eastern pine weevil,Pissodes nemorensis,"Terminal Shoot, Twig, and Root Feeders"
+-1,18017,adana tip moth,Rhyacionia adana,"Terminal Shoot, Twig, and Root Feeders"
+-1,18018,twig girdler,Oncideres cingulata,"Terminal Shoot, Twig, and Root Feeders"
+-1,18019,cranberry girdler,Chrysoteuchia topiaria,"Terminal Shoot, Twig, and Root Feeders"
+-1,18020,pine reproduction weevil,Cylindrocopturus eatoni,"Terminal Shoot, Twig, and Root Feeders"
+-1,18021,Douglas-fir twig weevil,Cylindrocopturus furnissi,"Terminal Shoot, Twig, and Root Feeders"
+-1,18022,oak twig borers,Anelaphus spp.,"Terminal Shoot, Twig, and Root Feeders"
+-1,18023,twig pruner,Anelaphus villosus,"Terminal Shoot, Twig, and Root Feeders"
+-1,18024,eastern pine shoot borer,Eucosma gloriola,"Terminal Shoot, Twig, and Root Feeders"
+-1,18025,western pine shoot borer,Eucosma sonomana,"Terminal Shoot, Twig, and Root Feeders"
+-1,18026,pine root collar weevil,Hylobius radicis,"Terminal Shoot, Twig, and Root Feeders"
+-1,18027,Warren root collar weevil,Hylobius warreni,"Terminal Shoot, Twig, and Root Feeders"
+-1,18028,Engelmann spruce weevil,Pissodes strobi,"Terminal Shoot, Twig, and Root Feeders"
+-1,18029,lodgepole terminal weevil,Pissodes terminalis,"Terminal Shoot, Twig, and Root Feeders"
+-1,18030,European pine shoot moth,Rhyacionia buoliana,"Terminal Shoot, Twig, and Root Feeders"
+-1,18031,western pine tip moth,Rhyacionia bushnelli,"Terminal Shoot, Twig, and Root Feeders"
+-1,18032,Nantucket pine tip moth,Rhyacionia frustrana,"Terminal Shoot, Twig, and Root Feeders"
+-1,18033,lodgepole pine tip moth,Rhyacionia montana,"Terminal Shoot, Twig, and Root Feeders"
+-1,18034,southwestern pine tip moth,Rhyacionia neomexicana,"Terminal Shoot, Twig, and Root Feeders"
+-1,18035,subtropical pine tip moth,Rhyacionia subtropica,"Terminal Shoot, Twig, and Root Feeders"
+-1,18036,cottonwood twig borer,Gypsonoma haimbachiana,"Terminal Shoot, Twig, and Root Feeders"
+-1,18037,pine shoot beetle,Tomicus piniperda,"Terminal Shoot, Twig, and Root Feeders"
+-1,18038,palmetto weevil,Rynchophorus cruentatus,"Terminal Shoot, Twig, and Root Feeders"
+-1,18039,cicadas,<Cicadidae>,"Terminal Shoot, Twig, and Root Feeders"
+-1,18800,"other terminal shoot, twig, or root feeder, known (code pending)","<other terminal shoot, twig, or root feeder, known (code pending)>","Terminal Shoot, Twig, and Root Feeders"
+-1,18900,"unknown terminal shoot, twig, or root feeder","<unknown terminal shoot, twig, or root feeder>","Terminal Shoot, Twig, and Root Feeders"
+-1,19000,general diseases,<general diseases>,General Diseases
+-1,20000,miscellaneous diseases,<miscellaneous diseases>,Miscellaneous Diseases
+-1,20001,damping-off,<damping-off>,Miscellaneous Diseases
+-1,20002,gray mold,Botrytis cinerea,Miscellaneous Diseases
+-1,20005,virus,<virus>,Miscellaneous Diseases
+-1,20006,coconut cadang-cadang viroid,CCCvd (246-mecleotide form),Miscellaneous Diseases
+-1,20007,western X-disease phytoplasma,western X-disease phytoplasma,Miscellaneous Diseases
+-1,20008,elm phloem necrosis,Candidatus Phytoplasma ulmi,Miscellaneous Diseases
+-1,20009,tobacco mosaic virus,<tobacco mosaic virus>,Miscellaneous Diseases
+-1,20010,tobacco ringspot virus,Nepovirus TRSV,Miscellaneous Diseases
+-1,20011,fire blight,Erwinia amylovora,Miscellaneous Diseases
+-1,20800,"other micellaneous pathogen, known (code pending)","<other miscellaneous pathogen, known (code pending)>",Miscellaneous Diseases
+-1,20900,"other miscellanous pathogen, unknown","<other miscellanous pathogen, unknown>",Miscellaneous Diseases
+-1,21000,root/butt diseases,<root/butt diseases>,Root Diseases / Decay
+-1,21001,Armillaria root disease,Armillaria spp.,Root Diseases / Decay
+-1,21002,yellow stringy rot,Scytinostroma galactinum,Root Diseases / Decay
+-1,21003,Cylindrocladium root disease,Cylindrocladium spp.,Root Diseases / Decay
+-1,21004,brown crumbly rot (red belt fungus),Fomitopsis pinicola,Root Diseases / Decay
+-1,21005,black root rot of pine,Fusarium oxysporum,Root Diseases / Decay
+-1,21006,Fusarium root rot,Fusarium spp.,Root Diseases / Decay
+-1,21007,white mottled rot,Ganoderma spp.,Root Diseases / Decay
+-1,21008,Ganoderma rot of hardwoods,Ganoderma lucidum,Root Diseases / Decay
+-1,21009,Ganoderma rot of conifers,Ganoderma tsugae,Root Diseases / Decay
+-1,21010,Heterobasidion root disease,Heterobasidion spp.,Root Diseases / Decay
+-1,21011,circinatus root rot,Onnia circinata,Root Diseases / Decay
+-1,21012,tomentosus root rot/false velvet top fungus,Onnia tomentosa,Root Diseases / Decay
+-1,21013,charcoal root rot,Macrophomina phaseolina,Root Diseases / Decay
+-1,21014,black stain root disease,Leptographium wageneri,Root Diseases / Decay
+-1,21015,Schweinitzii root and butt rot,Phaeolus schweinitzii,Root Diseases / Decay
+-1,21016,flame tree root disease,Phellinus noxius,Root Diseases / Decay
+-1,21017,laminated root rot,Coniferiporia sulphurascens,Root Diseases / Decay
+-1,21019,littleleaf disease / Phytophthora root rot,Phytophthora cinnamomi,Root Diseases / Decay
+-1,21020,Port-Orford-cedar root disease,Phytophthora lateralis,Root Diseases / Decay
+-1,21022,Pythium root rot,Pythium spp.,Root Diseases / Decay
+-1,21023,procera root disease of conifers,Leptographium procerum,Root Diseases / Decay
+-1,21025,borealis conk,Climacocystis borealis,Root Diseases / Decay
+-1,21026,yellow pitted rot,Hericium abietis,Root Diseases / Decay
+-1,21027,brown cubical rot,Laetiporus sulphureus,Root Diseases / Decay
+-1,21028,sudden oak death,Phytophthora ramorum,Root Diseases / Decay
+-1,21029,Rhizina root disease,Rhizina undulata,Root Diseases / Decay
+-1,21030,yellow root rot,Perenniporia subacida,Root Diseases / Decay
+-1,21031,brown top rot,Fomitopsis cajanderi,Root Diseases / Decay
+-1,21033,pocket dry rot,Tyromyces amarus,Root Diseases / Decay
+-1,21034,Phytophthora disease of alder,Phytophtora alni,Root Diseases / Decay
+-1,21035,Douglas-fir black stain root disease,Leptographium wageneri var. pseudotsugae,Root Diseases / Decay
+-1,21036,pine black stain root disease,Leptographium wageneri var. ponderosum,Root Diseases / Decay
+-1,21037,Heterobasidion root disease P-type,Heterobasidion irregulare,Root Diseases / Decay
+-1,21038,Heterobasidion root disease S-type,Heterobasidion occidentale,Root Diseases / Decay
+-1,21039,heart rot,<heart rot>,Root Diseases / Decay
+-1,21040,stem rot,<stem rot>,Root Diseases / Decay
+-1,21041,sap rot,<sap rot>,Root Diseases / Decay
+-1,21042,gray brown sap rot,Cryptoporus volvatus,Root Diseases / Decay
+-1,21043,red rot,Dichomitus squalens,Root Diseases / Decay
+-1,21044,Indian paint fungus,Echinodontium tinctorium,Root Diseases / Decay
+-1,21045,Fusarium cortical stem rot,Gibberella avenacea,Root Diseases / Decay
+-1,21046,canker rot of oak,Inonotus hispidus,Root Diseases / Decay
+-1,21047,cinder conk / sterile conk trunk rot,Inonotus obliquus,Root Diseases / Decay
+-1,21048,ash heart rot,Perenniporia fraxinophila,Root Diseases / Decay
+-1,21049,red ring rot,Porodaedalea pini,Root Diseases / Decay
+-1,21050,aspen trunk rot,Phellinus tremulae,Root Diseases / Decay
+-1,21051,stem decay of black walnut,Sanghuangporus weirianus,Root Diseases / Decay
+-1,21052,brown trunk rot / quinine conk,Fomitopsis officinalis,Root Diseases / Decay
+-1,21053,wet rot / cellar fungus,Coniophora puteana,Root Diseases / Decay
+-1,21054,tinder fungus,Fomes fomentarius,Root Diseases / Decay
+-1,21055,purple conk,Trichaptum abietinum,Root Diseases / Decay
+-1,21056,pinyon black stain root disease,Leptographium wageneri,Root Diseases / Decay
+-1,21057,white trunk rot of conifers / Hartig’s conk,Phellinus hartigii,Root Diseases / Decay
+-1,21058,false tinder fungus,Phellinus igniarius,Root Diseases / Decay
+-1,21059,robustus conk,Fomitiporia robusta,Root Diseases / Decay
+-1,21060,yellow cap fungus,Pholiota alnicola,Root Diseases / Decay
+-1,21061,oyster mushroom,Pleurotus ostreatus,Root Diseases / Decay
+-1,21062,redcedar white ring rot,Obba rivulosa,Root Diseases / Decay
+-1,21063,cedar brown pocket rot,Postia serieomollis,Root Diseases / Decay
+-1,21064,sterile conk of maple and beech,Inonotus glomeratus,Root Diseases / Decay
+-1,21065,birch conk,Piptoporus betulinus,Root Diseases / Decay
+-1,21066,red ring rot canker,Porodaedalea cancriformans,Root Diseases / Decay
+-1,21067,bacterial wetwood,Enterobacter nimipressuralis,Root Diseases / Decay
+-1,21068,artist's conk,Ganoderma applanatum,Root Diseases / Decay
+-1,21069,Phytophthora spp.,<Phytophthora spp.>,Root Diseases / Decay
+-1,21070,cedar laminated butt rot / yellow ring rot,Coniferiporia weirii,Root Diseases / Decay
+-1,21071,Coniophora (arida) brown rot,Coniophora arida,Root Diseases / Decay
+-1,21072,rainbow conk / turkey tail,Trametes versicolor,Root Diseases / Decay
+-1,21073,blue stain of spruce,Leptographium abietinum,Root Diseases / Decay
+-1,21074,<Pholiota spp.>,Pholiota spp.,Root Diseases / Decay
+-1,21800,"other root disease or decay, known (code pending)","<other root disease or decay, known (code pending)>",Root Diseases / Decay
+-1,21900,unknown root disease or decay,<unknown root disease or decay >,Root Diseases / Decay
+-1,22000,stem decays/cankers,<stem decys/cankers>,Cankers
+-1,22006,black knot of cherry,Apiosporina morbosa,Cankers
+-1,22007,atropellis canker,Atropellis piniphila,Cankers
+-1,22008,Siberian elm canker,Botryodiplodia hypodermia,Cankers
+-1,22009,Botryosphaeria canker,Botryosphaeria ribis,Cankers
+-1,22010,black rot fungus,Botryosphaeria stevensii,Cankers
+-1,22011,Caliciopsis canker,Caliciopsis pinea,Cankers
+-1,22012,black canker of aspen,Ceratocystis populicola,Cankers
+-1,22013,Sycamore canker,Ceratocystis fimbriata f. sp. platani,Cankers
+-1,22023,chestnut blight,Cryphonectria parasitica,Cankers
+-1,22025,Cryptosphaeria canker of aspen,Cryptosphaeria ligniota,Cankers
+-1,22026,Cytospora canker of fir,Cytospora abietis,Cankers
+-1,22029,sooty bark canker,Encoelia pruinosa,Cankers
+-1,22030,Eutypella canker,Eutypella parasitica,Cankers
+-1,22032,pitch canker of pines (Gibberella circinata also known as Fusarium circinatum),Gibberella circinata,Cankers
+-1,22033,Fusiococcum canker/constriction canker,Phomopsis amygdali,Cankers
+-1,22034,Scleroderris canker,Gremmeniella abietina,Cankers
+-1,22037,Hypoxylon canker of oak,Biscogniauxia atropunctata var. atropunctata,Cankers
+-1,22038,Hypoxylon canker of aspen,Entoleuca mammata,Cankers
+-1,22040,sterile conk trunk rot of birch,Inonotus obliquus,Cankers
+-1,22041,European larch canker,Lachnellula willkommii,Cankers
+-1,22042,beech bark disease complex,<beech bark disease complex>,Cankers
+-1,22043,Nectria canker,Neonectria ditissima,Cankers
+-1,22048,aspen trunk rot,Phellinus tremulae,Cankers
+-1,22050,Phomopsis canker of Douglas-fir,Phomopsis occulta,Cankers
+-1,22051,Phomopsis canker,Phomopsis spp.,Cankers
+-1,22052,cypress canker,Seiridium cardinale,Cankers
+-1,22053,butternut canker,Sirococcus clavigignenti juglandacearum,Cankers
+-1,22054,maple canker,Steganosporium spp.,Cankers
+-1,22055,Thyronectria canker,Pleonectria austroamericana,Cankers
+-1,22056,citrus canker,Xanthomonas citri,Cankers
+-1,22057,Cytospora canker of aspen,Cytospora chrysosperma,Cankers
+-1,22058,Dothichiza poplar canker,Chondroplea populea,Cankers
+-1,22060,Cytospora canker of spruce,Cytospora kunzei,Cankers
+-1,22063,<Coniophora puteana>,<Coniophora puteana>,Cankers
+-1,22066,pinyon black stain root disease,"Leptographium wageneri var. wageneri
+",Cankers
+-1,22073,hemlock canker,Xenomeris abietis,Cankers
+-1,22075,Lachnellula canker,Lachnellula flavovirens,Cankers
+-1,22076,Strumella canker,Strumella coryneoidea,Cankers
+-1,22077,Phomopsis blight,Phomopsis juniperivora,Cankers
+-1,22078,Nectria canker of yellow poplar,Nectria haematococca,Cankers
+-1,22080,aleurodiscus canker,Aleurodiscus spp.,Cankers
+-1,22082,Discocainia canker,Discocainia treleasei,Cankers
+-1,22085,Scleroderris canker of western firs,Grovesiella abieticola,Cankers
+-1,22086,thousand cankers disease,Geosmithia morbida,Cankers
+-1,22087,Dothichiza canker of poplar,Cryptodiaporthe populea,Cankers
+-1,22088,willow scab,Venturia saliciperda,Cankers
+-1,22089,apple scab,Venturia inaequalis,Cankers
+-1,22090,crown gall,Agrobacterium tumefaciens,Cankers
+-1,22091,sudden oak death,Phytophthora ramorum,Cankers
+-1,22092,Diplodia canker,Sphaeropsis sapinea,Cankers
+-1,22093,eutypella canker of maple,Eutypella parasitica,Cankers
+-1,22094,coral spot fungus,Nectria cinnabarina,Cankers
+-1,22095,rough bark of alder,Didymosphaeria oregonensis,Cankers
+-1,22096,Diplodia gall,"Diplodia tumefaciens
+",Cankers
+-1,22097,California bay laurel dieback,Neofusicoccum nonquaesitum,Cankers
+-1,22098,pistachio canker,Leptosillia pistaciae,Cankers
+-1,22099,aspen running canker,"Neodothiora populina Crous, G.C. Adams, & Winton",Cankers
+-1,22700,canker (general),<canker (general)>,Cankers
+-1,22800,"other canker agent, known (code pending)","<other canker agent, known (code pending)>",Cankers
+-1,22900,unknown canker,<unknown canker>,Cankers
+-1,22901,"Unknown canker, target","<Unknown canker, target>",Cankers
+-1,22902,"Unknown canker, diffuse","<Unknown canker, diffuse>",Cankers
+-1,23001,mistletoes,<mistletoe>,Parasitic Higher Plants
+-1,23003,vine damage,<vine damage>,Parasitic Higher Plants
+-1,23005,white fir dwarf mistletoe,Arceuthobium abietinum f. sp. concoloris,Parasitic Higher Plants
+-1,23006,American dwarf mistletoe,Arceuthobium americanum,Parasitic Higher Plants
+-1,23007,Apache dwarf mistletoe,Arceuthobium apachecum,Parasitic Higher Plants
+-1,23008,western dwarf mistletoe,Arceuthobium campylopodum,Parasitic Higher Plants
+-1,23009,limber pine dwarf mistletoe,Arceuthobium cyanocarpum,Parasitic Higher Plants
+-1,23010,pinyon dwarf mistletoe,Arceuthobium divaricatum,Parasitic Higher Plants
+-1,23011,Douglas-fir dwarf mistletoe,Arceuthobium douglasii,Parasitic Higher Plants
+-1,23012,Huachuca Mountain dwarf mistletoe,Arceuthobium gillii,Parasitic Higher Plants
+-1,23013,larch dwarf mistletoe,Arceuthobium laricis,Parasitic Higher Plants
+-1,23014,western spruce dwarf mistletoe,Arceuthobium microcarpum,Parasitic Higher Plants
+-1,23015,eastern dwarf mistletoe,Arceuthobium pusillum,Parasitic Higher Plants
+-1,23016,hemlock dwarf mistletoe,Arceuthobium tsugense,Parasitic Higher Plants
+-1,23017,southwestern dwarf mistletoe,Arceuthobium vaginatum ssp. cryptopodum,Parasitic Higher Plants
+-1,23018,dodder,Cuscuta spp.,Parasitic Higher Plants
+-1,23019,fir mistletoe,Phoradendron pauciflorum,Parasitic Higher Plants
+-1,23020,true mistletoe,Phoradendron spp.,Parasitic Higher Plants
+-1,23021,red fir dwarf mistletoe,Arceuthobium abietinum f. sp. magnificae,Parasitic Higher Plants
+-1,23022,juniper mistletoe,Phoradendron juniperinum,Parasitic Higher Plants
+-1,23023,dwarf mistletoe,Arceuthobium spp.,Parasitic Higher Plants
+-1,23024,Klamath fir dwarf mistletoe,Arceuthobium abietinum ssp. wiensii,Parasitic Higher Plants
+-1,23025,"love vine, greek kasytas",Cassytha filiformis,Parasitic Higher Plants
+-1,23800,"other parasitic plant, known (code pending)","<other parasitic plant, known (code pending)>",Parasitic Higher Plants
+-1,23900,unknown parasitic plant,<unknown parasitic plant>,Parasitic Higher Plants
+-1,24000,wilts,<wilts>,Decline Complexes/Dieback/Wilts
+-1,24001,yellow-cedar decline,<yellow-cedar decline>,Decline Complexes/Dieback/Wilts
+-1,24002,Norfolk Island pine decline,<Norfolk Island pine decline>,Decline Complexes/Dieback/Wilts
+-1,24003,Stillwell's syndrome,<Stillwell's syndrome>,Decline Complexes/Dieback/Wilts
+-1,24004,ash yellows disease,<ash yellows disease>,Decline Complexes/Dieback/Wilts
+-1,24005,birch dieback,<birch dieback>,Decline Complexes/Dieback/Wilts
+-1,24007,pest complex,<pest complex>,Decline Complexes/Dieback/Wilts
+-1,24008,decline complex,<decline complex>,Decline Complexes/Dieback/Wilts
+-1,24009,fall hardwood defoliator complex,<fall hardwood defoliator complex>,Decline Complexes/Dieback/Wilts
+-1,24011,larch decline,<larch decline>,Decline Complexes/Dieback/Wilts
+-1,24013,maple decline,<maple decline>,Decline Complexes/Dieback/Wilts
+-1,24014,oak decline,"<oak decline>
+",Decline Complexes/Dieback/Wilts
+-1,24017,true fir pest complex,<true fir pest complex>,Decline Complexes/Dieback/Wilts
+-1,24019,pine wilt disease,Bursaphelenchus xylophilus,Decline Complexes/Dieback/Wilts
+-1,24020,sapstreak disease,Ceratocystis coerulescens,Decline Complexes/Dieback/Wilts
+-1,24021,oak wilt,Ceratocystis fagacearum,Decline Complexes/Dieback/Wilts
+-1,24022,Dutch elm disease,Ophiostoma novo-ulmi,Decline Complexes/Dieback/Wilts
+-1,24024,mimosa wilt,Fusarium oxysporum  f. sp. perniciosum,Decline Complexes/Dieback/Wilts
+-1,24025,Verticillium wilt,Verticillium albo-atrum,Decline Complexes/Dieback/Wilts
+-1,24026,bacterial leaf scorch,"Xylella fastidiosa
+",Decline Complexes/Dieback/Wilts
+-1,24028,hemlock decline,"<hemlock decline>
+",Decline Complexes/Dieback/Wilts
+-1,24029,Pacific madrone decline,"<Pacific madrone decline>
+",Decline Complexes/Dieback/Wilts
+-1,24030,elm phloem necrosis phytoplasma,"<elm phloem necrosis phytoplasma>
+",Decline Complexes/Dieback/Wilts
+-1,24031,laurel wilt,Raffaelea lauricola,Decline Complexes/Dieback/Wilts
+-1,24032,sudden aspen decline,<sudden aspen decline>,Decline Complexes/Dieback/Wilts
+-1,24033,koa wilt,Fusarium oxysporum f. sp. Koae,Decline Complexes/Dieback/Wilts
+-1,24034,rapid 'ohia death,Ceratocystis spp.,Decline Complexes/Dieback/Wilts
+-1,24035,rapid 'ohia death (huliohia-slow),Ceratocystis huliohia,Decline Complexes/Dieback/Wilts
+-1,24036,rapid 'ohia death (lukuohia-aggressive),Ceratocystis lukuohia,Decline Complexes/Dieback/Wilts
+-1,24800,"other wilt, known (code pending)","<other wilt, known (code pending)>",Decline Complexes/Dieback/Wilts
+-1,24900,unknown wilt,<unknown wilt>,Decline Complexes/Dieback/Wilts
+-1,25000,foliage and shoot diseases,<foliage diseases>,Foliage and Shoot Diseases
+-1,25001,blight,<blight>,Foliage and Shoot Diseases
+-1,25002,broom rust,<none>,Foliage and Shoot Diseases
+-1,25004,leaf spots,<leaf spots>,Foliage and Shoot Diseases
+-1,25005,needlecast,<needlecast>,Foliage and Shoot Diseases
+-1,25006,powdery mildew,<powdery mildew>,Foliage and Shoot Diseases
+-1,25009,true fir needle cast,Lirula abietinus-concoloris,Foliage and Shoot Diseases
+-1,25010,sycamore anthracnose,Apiognomonia veneta,Foliage and Shoot Diseases
+-1,25011,Cercospora blight of juniper,Asperisporium sequoiae,Foliage and Shoot Diseases
+-1,25013,large-spored spruce-Labrador tea rust,Chrysomyxa ledicola,Foliage and Shoot Diseases
+-1,25014,ink spot of aspen,Ciborinia whetzelii,Foliage and Shoot Diseases
+-1,25015,pine needle rust,Coleosporium spp.,Foliage and Shoot Diseases
+-1,25016,anthracnose of Russian olive,Colletotrichum spp.,Foliage and Shoot Diseases
+-1,25018,leaf shothole,Cylindrosporium spp.,Foliage and Shoot Diseases
+-1,25019,cedar leaf blight,Didymascella thujina,Foliage and Shoot Diseases
+-1,25020,dogwood anthracnose,Discula destructiva,Foliage and Shoot Diseases
+-1,25021,mango scab,Elsinoë mangiferae,Foliage and Shoot Diseases
+-1,25022,Elytroderma needle blight,Elytroderma deformans,Foliage and Shoot Diseases
+-1,25024,walnut anthracnose,Gnomonia leptostyla,Foliage and Shoot Diseases
+-1,25025,anthracnose,Gnomonia spp.,Foliage and Shoot Diseases
+-1,25027,brown felt blight,Herpotrichia juniperi,Foliage and Shoot Diseases
+-1,25028,larch needle blight,Hypodermella laricis,Foliage and Shoot Diseases
+-1,25029,hardwood anthracnose,Kabatiella apocrypta,Foliage and Shoot Diseases
+-1,25030,Lasiodiplodia cone damage,Lasiodiplodia spp.,Foliage and Shoot Diseases
+-1,25031,Lirula spruce needle blight,Lirula macrospora,Foliage and Shoot Diseases
+-1,25032,fir needle cast,Lirula spp.,Foliage and Shoot Diseases
+-1,25033,white pine needle cast,Lophodermella arcuata,Foliage and Shoot Diseases
+-1,25034,Lophodermella needle cast of pines,Lophodermella spp.,Foliage and Shoot Diseases
+-1,25035,Lophodermium needle cast of pines,Lophodermium spp.,Foliage and Shoot Diseases
+-1,25036,Marssonina blight,Drepanopeziza spp.,Foliage and Shoot Diseases
+-1,25037,Douglas-fir rust,Melampsora medusae,Foliage and Shoot Diseases
+-1,25039,larch needle cast,Rhabdocline laricis,Foliage and Shoot Diseases
+-1,25040,Dothistroma needle blight (D. septosporum),Dothistroma septosporum,Foliage and Shoot Diseases
+-1,25041,brown felt blight of pines,Neopeckia coulteri,Foliage and Shoot Diseases
+-1,25042,snow blight,Phacidium infestans,Foliage and Shoot Diseases
+-1,25043,Swiss needle cast,Phaeocryptopus gaeumannii,Foliage and Shoot Diseases
+-1,25044,Phoma blight,Phoma spp.,Foliage and Shoot Diseases
+-1,25045,Phyllosticta leaf spot,Phyllosticta minima,Foliage and Shoot Diseases
+-1,25046,bud rot,Phytophthora palmivora,Foliage and Shoot Diseases
+-1,25047,Ploioderma needle cast,Ploioderma spp.,Foliage and Shoot Diseases
+-1,25048,ash rust,Puccinia sparganioides,Foliage and Shoot Diseases
+-1,25050,Rhabdocline needle cast,Rhabdocline spp.,Foliage and Shoot Diseases
+-1,25051,Rhizoctonia needle blight,Rhizoctonia spp.,Foliage and Shoot Diseases
+-1,25052,Rhizosphaera needle cast,Rhizosphaera spp.,Foliage and Shoot Diseases
+-1,25054,brown spot needle blight,Lecanosticta acicola,Foliage and Shoot Diseases
+-1,25055,Septoria leaf spot of alder,Puccinia sparganioides,Foliage and Shoot Diseases
+-1,25056,Septoria leaf spot and canker,Mycosphaerella populorum,Foliage and Shoot Diseases
+-1,25057,Sirococcus shoot blight,Sirococcus conigenus,Foliage and Shoot Diseases
+-1,25058,Diplodia canker,Sphaeropsis sapinea,Foliage and Shoot Diseases
+-1,25059,leaf blister of oak,Taphrina caerulescens,Foliage and Shoot Diseases
+-1,25060,Venturia leaf blight of maple,Venturia aceris,Foliage and Shoot Diseases
+-1,25061,aspen shoot blight,Venturia macularis,Foliage and Shoot Diseases
+-1,25062,Dothistroma needle blight,Dothistroma septospora,Foliage and Shoot Diseases
+-1,25063,yellow-cedar shoot blight,Kabatina thujae,Foliage and Shoot Diseases
+-1,25065,spruce needle rust,Chrysomyxa weirii,Foliage and Shoot Diseases
+-1,25067,spruce needle cast,Lophodermium piceae,Foliage and Shoot Diseases
+-1,25068,hardwood leaf rusts,Melampsora spp.,Foliage and Shoot Diseases
+-1,25071,Rhizosphaera needle disease of fir,Rhizosphaera pini,Foliage and Shoot Diseases
+-1,25072,sirococcus shoot blight,Sirococcus strobilinus,Foliage and Shoot Diseases
+-1,25073,cottonwood and poplar shoot blight,Venturia populina,Foliage and Shoot Diseases
+-1,25074,Delphinella shoot blight,Delphinella abietis,Foliage and Shoot Diseases
+-1,25075,tar spot,Rhytisma acerinum,Foliage and Shoot Diseases
+-1,25076,birch leaf fungus,Septoria betulae,Foliage and Shoot Diseases
+-1,25077,Septoria leaf spot of maple,Septoria aceris,Foliage and Shoot Diseases
+-1,25080,bur oak blight,Tubakia iowensis,Foliage and Shoot Diseases
+-1,25081,bacterial leaf scorch,Xylella fastidiosa,Foliage and Shoot Diseases
+-1,25082,leaf blister of maple,Taphrina carveri,Foliage and Shoot Diseases
+-1,25083,Rhizosphaera needle cast (spp. kalkhoffii),Rhizosphaera kalkhoffii,Foliage and Shoot Diseases
+-1,25084,white pine needle damage,<white pine needle damage>,Foliage and Shoot Diseases
+-1,25085,Dothistroma needle blight (D. pini),Dothistroma pini,Foliage and Shoot Diseases
+-1,25086,Sirococcus shoot blight of hemlock,Sirococcus tsugae,Foliage and Shoot Diseases
+-1,25087,Gemmamyces bud blight,Gemmamyces piceae,Foliage and Shoot Diseases
+-1,25088,Kabatina tip blight of juniper,Kabatina juniperi,Foliage and Shoot Diseases
+-1,25089,dichomera bud blight,Dichomera gemmicola,Foliage and Shoot Diseases
+-1,25090,aspen tongue gall,Taphrina johansonii,Foliage and Shoot Diseases
+-1,25091,alder tongue gall,Taphrina occidentalis,Foliage and Shoot Diseases
+-1,25092,beech leaf disease,<beech leaf disease>,Foliage and Shoot Diseases
+-1,25093,Tubakia spp.,Tubakia spp.,Foliage and Shoot Diseases
+-1,25800,"other foliage or shoot disease, known (code pending)","<other foliage or shoot disease, known (code pending)>",Foliage and Shoot Diseases
+-1,25900,unknown foliage or shoot disease,<unknown foliage or shoot disease>,Foliage and Shoot Diseases
+-1,26000,rusts,<rusts>,Rusts
+-1,26001,white pine blister rust,Cronartium ribicola,Rusts
+-1,26002,western gall rust,Peridermium harknessii,Rusts
+-1,26003,stalactiform rust,Cronartium coleosporioides,Rusts
+-1,26004,comandra blister rust,Cronartium comandrae,Rusts
+-1,26005,pinyon rust,Cronartium occidentale,Rusts
+-1,26006,eastern gall rust,Cronartium quercuum,Rusts
+-1,26007,gall rust of jack pine,Cronartium quercuum f. sp. banksianae,Rusts
+-1,26008,gall rust of shortleaf pine,Cronartium quercuum f. sp. echinatae,Rusts
+-1,26009,fusiform rust,Cronartium quercuum f. sp. fusiforme,Rusts
+-1,26010,gall rust of Virginia pine,Cronartium quercuum f. sp. virginianae,Rusts
+-1,26011,Bethuli rust,Peridermium bethuli,Rusts
+-1,26012,filamentosum rust,Peridermium filamentosum,Rusts
+-1,26013,southern cone rust,Cronartium strobilinum,Rusts
+-1,26014,sweetfern rust disease,Cronartium comptoniae,Rusts
+-1,26015,amelanchier rust,Gymnosporangium harknessianum,Rusts
+-1,26016,cedar apple rust,Gymnosporangium juniperi-virginianae,Rusts
+-1,26017,large-spored spruce-Labrador tea rust,Chrysomyxa ledicola,Rusts
+-1,26018,pine needle rust,Coleosporium asterum,Rusts
+-1,26019,Coronado limb rust,Cronartium arizonicum,Rusts
+-1,26020,Douglas-fir rust,Melampsora medusae,Rusts
+-1,26021,ash rust,Puccinia sparganioides,Rusts
+-1,26022,fir and hemlock rusts,Pucciniastrum spp.,Rusts
+-1,26023,spruce needle rust,Chrysomyxa weirii,Rusts
+-1,26024,yellow cypress rust,Gymnosporangium nootkatense,Rusts
+-1,26025,leaf rusts of hardwoods,Melampsora spp.,Rusts
+-1,26026,hemlock needle rust,Naohidemyces vaccinii,Rusts
+-1,26027,Eurasian poplar leaf rust,Melampsora larici-populina,Rusts
+-1,26028,'ohia / guava rust,Austropuccinia psidii,Rusts
+-1,26029,spruce broom rust,Chrysomyxa arctostaphyli,Rusts
+-1,26030,incense-cedar broom rust,Gymnosporangium libocedri,Rusts
+-1,26031,juniper broom rust,Gymnosporangium nidus-avis,Rusts
+-1,26032,yellow witches-broom of fir,Melampsorella caryophyllacearum,Rusts
+-1,26800,"other rust, known (code pending)","<other rust, known (code pending)>",Rusts
+-1,26900,unknown rust,<unknown rust>,Rusts
+-1,27001,spruce broom rust,"Chrysomyxa arctostaphyli
+",Rusts
+-1,27004,yellow witches-broom of fir,Melampsorella caryophyllacearum,Rusts
+-1,29001,yellow-cedar decline,<yellow-cedar decline>,Declines
+-1,29002,sudden aspen decline,<sudden aspen decline>,Declines
+-1,29003,maple decline,<maple decline>,Declines
+-1,29004,oak decline,<oak decline>,Declines
+-1,29005,subalpine fir decline,<subalpine fir decline>,Declines
+-1,29998,Unknown decline,<Unknown decline>,Declines
+-1,30000,fire,<fire>,Fire
+-1,30001,wild fire,<wild fire>,Fire
+-1,30002,human caused fire,<human caused fire>,Fire
+-1,30004,ground fire damage,<ground fire damage>,Fire
+-1,41000,wild animals,<wild animals>,Wild Animals
+-1,41001,bears,Ursus spp.,Wild Animals
+-1,41002,American beaver,Castor canadensis,Wild Animals
+-1,41003,big game,<big game>,Wild Animals
+-1,41004,mice or voles,<mice or voles>,Wild Animals
+-1,41005,pocket gophers,<Geomyidae>,Wild Animals
+-1,41006,common porcupine,Erethizon dorsatum,Wild Animals
+-1,41007,rabbits,Sylvilagus spp.,Wild Animals
+-1,41008,sapsuckers,Sphyrapicus spp.,Wild Animals
+-1,41009,squirrels,<Sciuridae>,Wild Animals
+-1,41010,woodpeckers,<Piciformes>,Wild Animals
+-1,41011,moose,Alces alces,Wild Animals
+-1,41012,elk,Cervus elaphus,Wild Animals
+-1,41013,deer,Odocoileus spp.,Wild Animals
+-1,41014,feral pigs,Sus scrofa,Wild Animals
+-1,41015,mountain beaver,Aplodontia rufa,Wild Animals
+-1,41016,deer or elk,<Cervidae>,Wild Animals
+-1,41017,earthworm,<Lumbricidae>,Wild Animals
+-1,41048,hares,Lepus spp.,Wild Animals
+-1,41800,"other wild animal, known (code pending)","<other wild animal, known (code pending)>",Wild Animals
+-1,41900,unknown wild animal,<unknown wild animal>,Wild Animals
+-1,42000,domestic animals,<domestic animals>,Domestic Animals
+-1,42001,domesticated cattle,Bos taurus,Domestic Animals
+-1,42002,goat,Capra hircus,Domestic Animals
+-1,42003,horse,Equus caballus,Domestic Animals
+-1,42004,sheep,Ovis aries,Domestic Animals
+-1,42800,"other domestic animal, known (code pending)","<other domestic animal, known (code pending)>",Domestic Animals
+-1,42900,unknown domestic animal,<unknown domestic animal>,Domestic Animals
+-1,50000,abiotic agents,<abiotic agents>,Abiotic Agents
+-1,50001,air pollutants,<air pollutants>,Abiotic Agents
+-1,50002,chemical,<chemical>,Abiotic Agents
+-1,50003,drought,<drought>,Abiotic Agents
+-1,50004,flooding-high water,<flooding-high water>,Abiotic Agents
+-1,50005,frost,<frost>,Abiotic Agents
+-1,50006,hail,<hail>,Abiotic Agents
+-1,50007,heat,<heat>,Abiotic Agents
+-1,50008,lightning,<lightning>,Abiotic Agents
+-1,50009,nutrient imbalances,<nutrient imbalances>,Abiotic Agents
+-1,50010,radiation,<radiation>,Abiotic Agents
+-1,50011,snow-ice,<snow-ice>,Abiotic Agents
+-1,50012,,,Abiotic Agents
+-1,50013,wind-tornado/hurricane,<wind-tornado/hurricane>,Abiotic Agents
+-1,50014,winter injury,<winter injury>,Abiotic Agents
+-1,50015,avalanche,<avalanche>,Abiotic Agents
+-1,50016,mud-land slide,<mud-land slide>,Abiotic Agents
+-1,50017,volcano,<volcano>,Abiotic Agents
+-1,50018,other geologic event,<other geologic event>,Abiotic Agents
+-1,50019,mechanical (non-human caused),<mechanical (non-human caused)>,Abiotic Agents
+-1,50020,saltwater injury - flooding / hurricane,<saltwater injury - flooding / hurricane>,Abiotic Agents
+-1,50021,freezing injury to roots,<freezing injury to roots>,Abiotic Agents
+-1,50022,salt damage,<salt damage>,Abiotic Agents
+-1,50800,"other abiotic damage, known (code pending)","<other abiotic damage, known (code pending)>",Abiotic Agents
+-1,50900,unknown abiotic damage,<unknown abiotic damage>,Abiotic Agents
+-1,60000,competition,<competition>,Competition
+-1,70000,human activities,<human activities>,Human Activities
+-1,70001,herbicides,<herbicides>,Human Activities
+-1,70003,imbedded objects,<imbedded objects>,Human Activities
+-1,70004,improper planting technique,<improper planting technique>,Human Activities
+-1,70005,land clearing,<land clearing>,Human Activities
+-1,70006,land use conversion,<land use conversion>,Human Activities
+-1,70007,logging damage,<logging damage>,Human Activities
+-1,70008,mechanical,<mechanical>,Human Activities
+-1,70009,pesticides,<pesticides>,Human Activities
+-1,70010,roads,<roads>,Human Activities
+-1,70011,soil compaction,<soil compaction>,Human Activities
+-1,70012,suppression,<suppression>,Human Activities
+-1,70013,vehicle damage,<vehicle damage>,Human Activities
+-1,70014,road salt or deicers,<road salt or deicers>,Human Activities
+-1,70100,other human activities,<other human activities>,Human Activities
+-1,71000,harvest,<harvest>,Harvest
+-1,71001,woodland cutting,<woodland cutting>,Harvest
+-1,80000,multi-agent ""complexes"",<multi-agent ""complexes"">,Multi-Agent ""Complexes""
+-1,80001,aspen defoliation,<aspen defoliation>,Multi-Agent ""Complexes""
+-1,80002,subapline fir mortatlity complex,<subalpine fir mortality complex>,Multi-Agent ""Complexes""
+-1,80003,five-needle pine decline,<five-needle pine decline>,Multi-Agent ""Complexes""
+-1,80004,pinyon pine mortality,<pinyon pine mortality>,Multi-Agent ""Complexes""
+-1,80005,root disease and beetle complex,<root disease and beetle complex>,Multi-Agent ""Complexes""
+-1,80006,ash yellows,Candidatus phytoplasma fraxini,Multi-Agent ""Complexes""
+-1,80300,"other pest complex, known (code pending)","<other pest complex, known (code pending)>",Multi-Agent ""Complexes""
+-1,85000,invasive plants,<invasive plants>,Invasive Plants
+-1,85001,buffelgrass,Pennisetum ciliare,Invasive Plants
+-1,85002,tree of heaven,Ailanthus altissima,Invasive Plants
+-1,85003,crimson fountaingrass,Cenchrus setaceus,Invasive Plants
+-1,85004,<Merremia peltata>,Merremia peltata,Invasive Plants
+-1,85005,lesser celandine,Ranunculus ficaria,Invasive Plants
+-1,85006,amur cork tree,Phellodendron amurense,Invasive Plants
+-1,85007,fountain grass,Pennisetum setaceum,Invasive Plants
+-1,85008,Boer lovegrass,Eragrostis curvula,Invasive Plants
+-1,85009,natal grass,Melinis repens,Invasive Plants
+-1,85010,Russian olive,"Elaeagnus angustifolia
+",Invasive Plants
+-1,85011,tamarisk,Tamarix spp.,Invasive Plants
+-1,90000,unknown,<unknown>,Other Damages and Symptoms
+-1,90001,broken top,<broken top>,Other Damages and Symptoms
+-1,90002,dead top,<dead top>,Other Damages and Symptoms
+-1,90004,forked top,<forked top>,Other Damages and Symptoms
+-1,90006,crook or sweep,<crook or sweep>,Other Damages and Symptoms
+-1,90008,foliage discoloration,<foliage discoloration>,Other Damages and Symptoms
+-1,90009,mortality,<mortality>,Other Damages and Symptoms
+-1,90010,dieback,<dieback>,Other Damages and Symptoms
+-1,99001,follow-up 1,<follow-up 1>,no data
+-1,99999,no data,<no data>,no data
