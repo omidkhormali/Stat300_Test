@@ -1,0 +1,37 @@
+Movie,Year,Run_Time,Genre,Action_Adventure,Country,Region,Latitude,Longitude,Box_Office
+Spider-Man: No Way Home,2021,148,Action/Adventure,Yes,USA,New York,40.7128,-74.006,814.11507
+Top Gun: Maverick,2022,130,Action/Adventure,Yes,USA,California,35.011,-115.4734,718.732821
+Avatar: The Way of Water,2022,192,Sci-Fi/Fantasy,No,,,,,684.075767
+Barbie,2023,114,Comedy,No,USA,California,33.985,-118.4695,635.68
+The Super Mario Bros. Movie,2023,92,Family,No,,,,,574.93433
+Black Panther: Wakanda Forever,2022,161,Action/Adventure,Yes,USA,Georgia,33.7488,-84.3877,453.82906
+Doctor Strange in the Multiverse of Madness,2022,126,Action/Adventure,Yes,UK,Surrey,51.4412,-0.2745,411.331607
+Spider-Man: Across the Spider-Verse,2023,140,Family,No,,,,,381.311319
+Jurassic World Dominion,2022,147,Action/Adventure,Yes,Canada,Vancouver Island,49.6506,-125.4494,376.85108
+Minions: The Rise of Gru,2022,87,Family,No,,,,,369.69521
+The Batman,2022,176,Action/Adventure,Yes,UK,Liverpool,53.4084,-2.9916,369.345583
+Guardians of the Galaxy Vol. 3,2023,150,Sci-Fi/Fantasy,No,USA,Georgia,33.3064,-84.5899,358.995815
+Thor: Love and Thunder,2022,118,Action/Adventure,Yes,Australia,New South Wales,-31.2532,146.9211,343.25683
+The Little Mermaid,2023,135,Family,No,Italy,Sardinia,40.1209,9.0129,298.172056
+Shang-Chi and the Legend of the Ten Rings,2021,132,Action/Adventure,Yes,Australia,Sydney,-33.8688,151.2093,224.543292
+Ant-Man and the Wasp: Quantumania,2023,124,Action/Adventure,Yes,UK,Buckinghamshire,51.8072,-0.8128,214.504909
+Sonic the Hedgehog 2,2022,122,Family,No,Canada,Vancouver,49.2827,-123.1207,190.872904
+Puss in Boots: The Last Wish,2022,102,Family,No,,,,,185.535345
+Black Widow,2021,134,Action/Adventure,Yes,Hungary,Etyek,47.4467,18.7512,183.651655
+Indiana Jones and the Dial of Destiny,2023,154,Adventure,No,UK,Northumberland,55.6756,-1.7977,174.480468
+Mission: Impossible - Dead Reckoning,2023,163,Action/Adventure,Yes,UK,Derbyshire,53.1047,-1.5624,172.135383
+Eternals,2021,156,Action/Adventure,Yes,UK,London,51.539,-0.1426,164.870234
+Sing 2,2021,110,Family,No,,,,,162.79099
+No Time to Die,2021,163,Action/Adventure,Yes,UK,London,51.5072,-0.1276,160.891007
+Transformers: Rise of the Beasts,2023,127,Action/Adventure,Yes,Canada,Montreal,45.5019,-73.5674,157.066392
+Elemental,2023,101,Family,No,,,,,154.426697
+Sonic the Hedgehog,2020,99,Family,No,Canada,Vancouver,49.2827,-123.1207,148.974665
+Uncharted,2022,116,Action/Adventure,Yes,Germany,Berlin,52.52,13.405,148.64882
+Ghostbusters: Afterlife,2021,124,Comedy,No,Canada,Calgary,51.0447,-114.0719,129.360575
+Teenage Mutant Ninja Turtles: Mutant Mayhem,2023,99,Family,No,,,,,118.566254
+Lightyear,2022,105,Family,No,,,,,118.307188
+Jungle Cruise,2021,127,Action/Adventure,Yes,USA,Hawaii,22.0964,-159.5261,116.987516
+Dune,2021,155,Sci-Fi/Fantasy,No,Hungary,Budapest,47.4979,19.0402,108.32783
+The Flash,2023,144,Action/Adventure,Yes,UK,London,51.5139,-0.0984,108.133313
+Encanto,2021,102,Family,No,,,,,96.093622
+Fantastic Beasts: The Secrets of Dumbledore,2022,142,Sci-Fi/Fantasy,No,UK,Hertfordshire,51.8098,-0.2377,95.850844
